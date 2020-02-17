@@ -1,0 +1,13 @@
+﻿<Window x:Class="Hello_Button.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Content="Click me" HorizontalAlignment="Left" Margin="60,60,0,0"
+                VerticalAlignment="Top" Width="75"
+                Name="testButton" Click="testButton_Click"/>
+        <Label Content="" HorizontalAlignment="Left"
+               Margin="60,100,0,0" VerticalAlignment="Top"
+               Name="resultLabel"/>
+    </Grid>
+</Window>

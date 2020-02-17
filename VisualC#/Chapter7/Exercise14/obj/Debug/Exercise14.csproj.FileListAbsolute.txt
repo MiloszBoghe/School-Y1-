@@ -1,0 +1,15 @@
+D:\Gebruikers\Gebruiker\Bureaublad\VisualC#\DotNet\Guts-DotNetEssentials\Guts-DotNetEssentials\Guts-DotNetEssentials\Chapter7\Exercise14\bin\Debug\Exercise14.exe.config
+D:\Gebruikers\Gebruiker\Bureaublad\VisualC#\DotNet\Guts-DotNetEssentials\Guts-DotNetEssentials\Guts-DotNetEssentials\Chapter7\Exercise14\bin\Debug\Exercise14.exe
+D:\Gebruikers\Gebruiker\Bureaublad\VisualC#\DotNet\Guts-DotNetEssentials\Guts-DotNetEssentials\Guts-DotNetEssentials\Chapter7\Exercise14\bin\Debug\Exercise14.pdb
+D:\Gebruikers\Gebruiker\Bureaublad\VisualC#\DotNet\Guts-DotNetEssentials\Guts-DotNetEssentials\Guts-DotNetEssentials\Chapter7\Exercise14\obj\Debug\Exercise14.csprojAssemblyReference.cache
+D:\Gebruikers\Gebruiker\Bureaublad\VisualC#\DotNet\Guts-DotNetEssentials\Guts-DotNetEssentials\Guts-DotNetEssentials\Chapter7\Exercise14\obj\Debug\MainWindow.g.cs
+D:\Gebruikers\Gebruiker\Bureaublad\VisualC#\DotNet\Guts-DotNetEssentials\Guts-DotNetEssentials\Guts-DotNetEssentials\Chapter7\Exercise14\obj\Debug\App.g.cs
+D:\Gebruikers\Gebruiker\Bureaublad\VisualC#\DotNet\Guts-DotNetEssentials\Guts-DotNetEssentials\Guts-DotNetEssentials\Chapter7\Exercise14\obj\Debug\Exercise14_MarkupCompile.cache
+D:\Gebruikers\Gebruiker\Bureaublad\VisualC#\DotNet\Guts-DotNetEssentials\Guts-DotNetEssentials\Guts-DotNetEssentials\Chapter7\Exercise14\obj\Debug\Exercise14_MarkupCompile.lref
+D:\Gebruikers\Gebruiker\Bureaublad\VisualC#\DotNet\Guts-DotNetEssentials\Guts-DotNetEssentials\Guts-DotNetEssentials\Chapter7\Exercise14\obj\Debug\MainWindow.baml
+D:\Gebruikers\Gebruiker\Bureaublad\VisualC#\DotNet\Guts-DotNetEssentials\Guts-DotNetEssentials\Guts-DotNetEssentials\Chapter7\Exercise14\obj\Debug\Exercise14.g.resources
+D:\Gebruikers\Gebruiker\Bureaublad\VisualC#\DotNet\Guts-DotNetEssentials\Guts-DotNetEssentials\Guts-DotNetEssentials\Chapter7\Exercise14\obj\Debug\Exercise14.Properties.Resources.resources
+D:\Gebruikers\Gebruiker\Bureaublad\VisualC#\DotNet\Guts-DotNetEssentials\Guts-DotNetEssentials\Guts-DotNetEssentials\Chapter7\Exercise14\obj\Debug\Exercise14.csproj.GenerateResource.cache
+D:\Gebruikers\Gebruiker\Bureaublad\VisualC#\DotNet\Guts-DotNetEssentials\Guts-DotNetEssentials\Guts-DotNetEssentials\Chapter7\Exercise14\obj\Debug\Exercise14.csproj.CoreCompileInputs.cache
+D:\Gebruikers\Gebruiker\Bureaublad\VisualC#\DotNet\Guts-DotNetEssentials\Guts-DotNetEssentials\Guts-DotNetEssentials\Chapter7\Exercise14\obj\Debug\Exercise14.exe
+D:\Gebruikers\Gebruiker\Bureaublad\VisualC#\DotNet\Guts-DotNetEssentials\Guts-DotNetEssentials\Guts-DotNetEssentials\Chapter7\Exercise14\obj\Debug\Exercise14.pdb

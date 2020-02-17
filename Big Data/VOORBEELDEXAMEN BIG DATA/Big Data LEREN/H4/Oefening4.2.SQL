@@ -1,0 +1,26 @@
+/*CREATE TABLE LOG_HISTORY
+    ( LOG_USER 	   VARCHAR(40)
+	, LOG_DATE 	   DATE
+    , LOG_TIME     TIMESTAMP
+    , LOG_ACTION   VARCHAR(6)
+    )
+	/
+*/
+
+CREATE OR REPLACE TRIGGER aiuds_jh
+  AFTER INSERT OR UPDATE OR DELETE
+  ON JOB_HISTORY
+ DECLARE
+  v_actie       VARCHAR2(15);
+ BEGIN
+  IF INSERTING THEN
+    v_actie := 'INSERT';
+  ELSIF DELETING THEN
+    v_actie := 'DELETE';
+  ELSE
+    v_actie := 'UPDATE';
+  END IF;
+
+  INSERT INTO log_history
+  VALUES (USER, SYSDATE, SYSTIMESTAMP, v_actie);
+ END;

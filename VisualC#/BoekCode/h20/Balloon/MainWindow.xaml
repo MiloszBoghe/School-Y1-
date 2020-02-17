@@ -1,0 +1,26 @@
+﻿<Window x:Class="BalloonApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Balloon" Height="350" Width="397.727">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="20,20,0,0"
+                   Text="Radius:" VerticalAlignment="Top"/>
+        <Label Content="xx" HorizontalAlignment="Left" Margin="63,15,0,0"
+               VerticalAlignment="Top"
+               Name="radiusLabel"/>
+        <Slider HorizontalAlignment="Left" Margin="112,23,0,0" VerticalAlignment="Top"
+                Width="240" Name="radiusSlider"
+                Minimum="0" Maximum="100"
+                ValueChanged="radiusSlider_ValueChanged"/>
+        <Button Content="Up" HorizontalAlignment="Left" Margin="20,89,0,0"
+                VerticalAlignment="Top" Width="64" Name="upButton"
+                Click="upButton_Click"/>
+        <Button Content="Down" HorizontalAlignment="Left" Margin="20,119,0,0"
+        	VerticalAlignment="Top" Width="64" Name="downButton"
+                Click="downButton_Click"/>
+        <Canvas HorizontalAlignment="Left" Height="223" Margin="112,64,0,0"
+                VerticalAlignment="Top" Width="240"
+                Name="balloonCanvas" Background="LightGray"
+                ClipToBounds="True"/>
+    </Grid>
+</Window>

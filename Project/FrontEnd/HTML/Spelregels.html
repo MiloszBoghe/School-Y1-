@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MM19 - Spelregels</title>
+    <link rel="stylesheet" href="CSS/global.css">
+    <!--Bootstrap Links-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script>if (typeof module === 'object') {window.module = module; module = undefined;}</script>
+    <!-- normal script imports etc  -->
+    <script src="JS/jquery-3.4.1.min.js"></script>
+    <script>if (window.module) module = window.module;</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+            integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+            crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+            integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+            crossorigin="anonymous"></script>
+</head>
+<body class="lobby">
+<nav class="navbar-main">
+    <a href="#" class="navbar-logo "><img src="https://cdn.discordapp.com/attachments/580389867553423381/581112638402986003/WBCEQgAhGIQAQiEIHLBBKTl9F1YQQiEIEIRCACEYhAYrIEIEIRCACEYhABCJwmUBi8jK6LoxABCIQgQhEIAIRSEzWByIQgQhEIAI.png" alt=""></a>
+    <ul>
+        <li class="hvr-pulse-shrink hvr-underline-from-center"><a href="LobbyList.html">Lobbies</a></li>
+        <li class="hvr-pulse-shrink hvr-underline-from-center"><a href="Spelregels.html">Spelregels</a></li>
+        <li class="hvr-pulse-shrink hvr-underline-from-center"><a href="index.html">Logout</a></li>
+    </ul>
+</nav>
+<section id="Spelregels">
+    <article class="wrapper">
+        <h1 class="h1-spelregels"><span class="lijn">Gebruik je brein en breek de code!</span></h1>
+        <h2>Inhoud</h2>
+        <img src="Images/Afbeelding1.JPG" class="img-spelregels" alt="afbeelding1">
+        <p>Mastermind-spel, 96 codepinnetjes in 8 kleuren, 15 kleine rode scorepinnetjes, 15 kleine witte scorepinnetjes.</p>
+        <h1 class="h1-spelregels"><span class="lijn">Doel van het spel</span></h1>
+        <p>MASTERMIND geeft iedere speler de kans een ander te slim af te zijn.</p>
+        <h2>De speler die de code maakt:</h2>
+        <p>jij moet een geheime code verzinnen die zó moeilijk is dat je tegenstander hem niet kan breken. Je code kan uit iedere combinatie van de 8 verschillende kleuren bestaan. </p>
+        <h2>De speler die de code ontcijfert:</h2>
+        <p>jij moet de geheime code in zo min mogelijk pogingen breken. Je hebt maximaal 12 kansen om de code van je tegenstander na te maken – d.w.z. de juiste kleuren in de juiste volgorde te raden.</p>
+        <h1 class="h1-spelregels"><span class="lijn">VOORBEREIDING</span></h1>
+        <p>Maak de grote gekleurde codepinnetjes los van de kleine rode en witte scorepinnetjes. Je kunt de pinnetjes bewaren in het vak aan de zijkant van het Mastermindspel (zie afbeelding 1). Spreek voordat je begint af hoeveel ronden je gaat spelen. Bedenk daarbij dat je een even aantal moet spelen, zodat beide spelers evenveel kans hebben om te winnen.</p>
+        <h1 class="h1-spelregels"><span class="lijn">Het Spel</span></h1>
+        <p>Spreek af wie als eerste een code maakt. Deze speler moet een rijtje codepinnetjes opzetten (de geheime code) in de gaatjes aan de voorkant van het draaibare schermpje. Let op: de speler die de code moet ontcijferen mag niet kijken terwijl de codemaker de code opzet. Klap voordat het spel begint het schermpje om, zodat de code helemaal verborgen is voor de tegenspeler. De code bestaat uit 4 codepinnetjes in iedere gewenste combinatie van de 8 kleuren. Je mag 2 of meer pinnetjes van dezelfde kleur gebruiken. </p>
+        <img class="img-spelregels" src="Images/Afbeelding2.JPG" alt="Afbeelding2">
+        <p>Rood, rood, geel, blauw. <br>Als de code is opgezet, kan de tegenspeler beginnen met raden. Zijn/haar doel is de exacte kleuren en plaatsen van de verborgen codepinnetjes te kopiëren. Raden betekent dat je een rij codepinnetjes in het Mastermind-spel zet. Elke rij pinnetjes (dus elke poging) blijft de rest van de ronde zo staan. Na iedere poging moet de codemaker de tegenspeler vertellen wat er goed en fout is in het rijtje. Dat gaat als volgt:</p>
+        <h2>Rode scorepinnetjes:</h2>
+        <p>Zet een rood scorepinnetje in een scoregaatje voor elk codepinnetje van de juiste kleur op de juiste plaats.</p>
+        <h2>Witte scorepinnetjes:</h2>
+        <p>Zet een wit scorepinnetje in een scoregaatje voor elk codepinnetje van de juiste kleur op een verkeerde plaats. </p>
+        <h2>Lege scoregaatjes</h2>
+        <p>Laat een scoregaatje leeg voor elk codepinnetje van een verkeerde kleur.</p>
+        <img class="img-spelregels" src="Images/Afbeelding3.JPG" alt="Afbeelding3">
+        <h2>Codebreker:</h2>
+        <p>Codebreker: vergeet niet dat het jouw doel is de code in zo min mogelijk pogingen te breken, dus bestudeer het antwoord van de codemaker aandachtig om het aantal keuzemogelijkheden te beperken. Als de codebreker de code ontcijfert, moet de codemaker het schermpje omklappen om de geheime code te laten zien. De ronde is voorbij. Tel de score (zie Puntentelling hieronder)</p>
+        <h1 class="h1-spelregels"><span class="lijn">PUNTENTELLING</span></h1>
+        <p>Aan het eind van elke ronde krijgt de codemaker één punt voor elke rij pinnetjes die de codebreker heeft neergezet. Houd de score bij door een van de kleine scorepinnetjes in de rij voor de puntentelling te zetten (zie afbeelding 1). De ene speler gebruikt een wit pinnetje en de andere een rood pinnetje.</p>
+        <h1 class="h1-spelregels"><span class="lijn">DE WINNAAR</span></h1>
+        <p>De speler met het hoogste aantal punten wint het spel. </p>
+        <h1 class="h1-spelregels"><span class="lijn"> VARIATIE VOOR MEESTERBREINEN</span></h1>
+        <p>In deze moeilijker versie van het spel mag de codemaker één of meer gaatjes in de code leeg laten. Dit betekent dat je in feite negen kleuren hebt om uit te kiezen. Gebruik de rode en witte scorepinnetjes op precies dezelfde manier als in het standaardspel; een leeg gaatje in de code wordt dus net zo beantwoord als een gaatje met een gekleurd pinnetje. </p>
+        <h6>© 2000 Hasbro International Inc. Alle rechten voorbehouden. Gedistribueerd in België door S.A. Hasbro N.V., ’t Hofveld 6D, 1702 Groot Bijgaarden. Gedistribueerd in Nederland door Hasbro B.V., Postbus 3010, 3502 GA Utrecht. </h6>
+
+        <p>Bron: https://www.spelregels.eu/PDF/spelregels-mastermind.pdf</p>
+    </article>
+</section>
+</body>
+</html>

@@ -1,0 +1,53 @@
+table {
+    border-collapse: collapse;
+}
+table tr, table td {
+    width: 100px;
+    height: 100px;
+    border: 3px solid black;
+}
+td:nth-child(1) {
+    background: darkgreen;
+    width: 400px;
+    height: 100px;
+}
+td:nth-child(2) {
+    background: red;
+    width: 100px;
+    height: 400px;
+}
+tr:nth-child(2) td:nth-child(2) {
+    background: red;
+    width: 200px;
+    height: 100px;
+}
+tr:nth-child(2) td:nth-child(1) {
+    background: blue;
+    width: 100px;
+    height: 400px;
+}
+tr:nth-child(2) td:nth-child(3) {
+    background: yellow;
+    width: 100px;
+    height: 200px;
+}
+tr:nth-child(3) td:nth-child(2) {
+     background: white;
+    width: 100px;
+    height: 100px;
+}
+tr:nth-child(3) td:nth-child(1) {
+    background: darkgreen;
+    width: 100px;
+    height: 200px;
+}
+tr:nth-child(4) td:nth-child(1) {
+    background: blue;
+    width: 200px;
+    height: 100px;
+}
+tr:nth-child(5) td:nth-child(1) {
+    background: yellow;
+    width: 400px;
+    height: 100px;
+}

@@ -1,0 +1,23 @@
+body {
+    background-color: #dd1155;
+    font-family: Verdana, sans-serif;
+}
+h1{
+    color: #21700e;
+}
+p{
+    color: #6a7689;
+    padding: 20px;
+}
+p.highlight{
+    color:yellow;
+    border: 20px solid yellow;
+
+    margin: 0 20%;
+}
+.highlight{
+    text-align: center;
+}
+a{
+    color: white;
+}

@@ -1,0 +1,17 @@
+﻿<Window x:Class="BalloonApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Balloon" Height="288" Width="312">
+    <Grid>
+        <Button Content="Move" HorizontalAlignment="Left" Margin="40,28,0,0"
+                VerticalAlignment="Top" Width="75"
+                Name="moveButton" Click="moveButton_Click"/>
+        <Button Content="Grow" HorizontalAlignment="Left" Margin="198,28,0,0"
+                VerticalAlignment="Top" Width="75"
+                Name="growButton" Click="growButton_Click"/>
+        <Canvas HorizontalAlignment="Left" Height="173" Margin="40,67,0,0"
+                VerticalAlignment="Top" Width="233" Background="LightGray"
+                Name="drawingCanvas"/>
+
+    </Grid>
+</Window>

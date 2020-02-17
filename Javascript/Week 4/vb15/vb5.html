@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+    <title>vb5</title>
+</head>
+<body>
+<button>A</button>
+<button>B</button>
+<button>C</button>
+<script>
+    document.body.addEventListener("click", event => {
+        if (event.target.nodeName == "BUTTON") {
+            console.log("Clicked", event.target.textContent);
+        }
+    });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,30 @@
+﻿<Window x:Class="Change.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Change" Height="230.597" Width="431.866">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="20,20,0,0"
+                   Text="Original:" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23"
+                 Margin="85,19,0,0" VerticalAlignment="Top" Width="320"
+                 Name="originalTextBox"/>
+        <TextBlock HorizontalAlignment="Left" Margin="20,60,0,0"
+        	Text="From:" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="85,59,0,0"
+                 VerticalAlignment="Top" Width="120"
+                 Name="fromTextBox"/>
+        <TextBlock HorizontalAlignment="Left" Margin="245,60,0,0"
+        	Text="To:" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="285,59,0,0"
+        	VerticalAlignment="Top" Width="120"
+        	x:Name="toTextBox"/>
+        <Label HorizontalAlignment="Left" Margin="85,111,0,0"
+               VerticalAlignment="Top" Name="resultLabel"/>
+        <Button Content="Change" HorizontalAlignment="Left" Margin="330,157,0,0"
+                VerticalAlignment="Top" Width="75"
+                Name="changeButton" Click="changeButton_Click"/>
+
+
+
+    </Grid>
+</Window>

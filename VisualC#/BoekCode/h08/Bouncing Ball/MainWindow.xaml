@@ -1,0 +1,12 @@
+﻿<Window x:Class="Bouncing_Ball.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Bouncing ball" Height="355" Width="348">
+    <Grid>
+        <Canvas HorizontalAlignment="Left" Height="301"
+                Margin="10,10,0,0" VerticalAlignment="Top" Width="315"
+                Name="ballCanvas" MouseUp="ballCanvas_MouseUp"
+                Background="LightGray" ClipToBounds="True"/>
+
+    </Grid>
+</Window>

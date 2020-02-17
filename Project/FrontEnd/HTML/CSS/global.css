@@ -1,0 +1,688 @@
+/*Body*/
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    /*background: #34495e;*/
+    background-color: white;
+}
+#home {
+    clip-path: url(#cache);
+}
+
+#red {
+    fill: none;
+    opacity: 0.15;
+    stroke: #c0c0c0;
+    stroke-width: 12;
+    stroke-miterlimit:10;
+    animation: show 3s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+
+#blue {
+    fill: none;
+    opacity: 0.15;
+    stroke: #373833;
+    stroke-width: 12;
+    stroke-miterlimit:10;
+    animation: show 3s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+
+#light-blue {
+    fill: none;
+    opacity: 0.15;
+    stroke: #FA2742;
+    stroke-width: 6;
+    stroke-miterlimit:10;
+    stroke-dasharray: 200;
+    stroke-dashoffset: 800;
+    animation: draw 3s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+@keyframes draw {
+    to {
+        stroke-dashoffset: 0;
+    }
+}
+
+@keyframes show {
+    0% {
+        opacity: 0.15;
+    }
+    50% {
+        opacity: 0.2;
+    }
+    100% {
+        opacity: 0.15;
+    }
+}
+/*Form*/
+.form-box{
+    width: 300px;
+    padding: 10px;
+    position: absolute;
+    top: 52%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: #501f3a;
+    text-align: center;
+    border-radius: 50px;
+    opacity: 1;
+}
+/*Form voor H1 instellingen*/
+.form-box h1{
+    color: #E8EAE3;
+    text-transform: uppercase;
+    font-weight: 500;
+    display: inline-block;
+    margin-bottom: 0;
+}
+/*Logo grote aanpassen*/
+.form-box img {
+    width: 150px;
+    height: 150px;
+    display: block;
+}
+/*Kleuren en instellingen Gebruikersnaam en passwoord*/
+.form-box input[type = "text"],.form-box input[type = "password"]{
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid #FA2742;
+    padding: 14px 10px;
+    width: 200px;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.25s;
+}
+/*Tekst in de boxen van gebruikersnaam en het passwoord*/
+.form-box input[type = "text"]::placeholder,.form-box input[type = "password"]::placeholder {
+    color: #FA2742;
+}
+/*Kleuren en instellingen voor email*/
+.form-box input[type = "email"]{
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid #FA2742;
+    padding: 14px 10px;
+    width: 200px;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.25s;
+}
+/*Tekst in het vak van email*/
+.form-box input[type = "email"]::placeholder{
+    color: #FA2742;
+}
+/*Knop en submit instellingen*/
+.form-box input[type = "submit"],.form-box input[type = "button"]{
+    background: none;
+    display: inline-block;
+    text-align: center;
+    border: 2px solid #E8EAE3;
+    width: 111px;
+    height: 50px;
+    outline: none;
+    color: #E8EAE3;
+    border-radius: 24px;
+    transition: 0.25s;
+    cursor: pointer;
+}
+/*HoverEffect op de verschillende knoppen en submit*/
+.form-box input[type = "submit"]:hover,.form-box input[type = "button"]:hover{
+    background: #E8EAE3;
+    color: white;
+}
+/*Input Effects*/
+.form-box input[type = "text"]:focus,.form-box input[type = "password"]:focus,.form-box input[type = "email"]:focus{
+    border: 2px solid hsl(0, 100%, 50%);
+    -webkit-animation: rainbow 1s infinite alternate;
+}
+@-webkit-keyframes rainbow {
+    0% {border-color: hsl(0, 100%, 50%);}
+    100% {border-color: hsl(255, 100%, 50%);}
+}
+
+/*Lobby*/
+.lobby {
+    background-image: none;
+    background: #E8EAE3; /*#151605*/
+}
+
+.navbar-main {
+    background-color: #000;
+    /*width: 100%;*/
+    height: 80px;
+    line-height: 80px;
+    font-size: 18px;
+    padding: 0 30px;
+}
+.navbar-main a {
+    text-decoration: none;
+    color: #CCC; /*fff*/
+}
+.navbar-main ul {
+    float: right;
+    list-style: none;
+    height: inherit;
+    line-height: inherit;
+    margin-top: 0;
+}
+.navbar-main ul li {
+    display: inline-block;
+}
+.navbar-main ul li a {
+    display: block;
+    text-align: center;
+    min-width: 120px;
+    padding: 0 30px;
+}
+.navbar-logo img {
+    float: left;
+    width: 80px;
+}
+/*Effecten op de navbar-main*/
+/* Pulse Shrink  http://ianlunn.github.io/Hover/#effects*/
+@-webkit-keyframes hvr-pulse-shrink {
+    to {
+        -webkit-transform: scale(0.9);
+        transform: scale(0.9);
+    }
+}
+@keyframes hvr-pulse-shrink {
+    to {
+        -webkit-transform: scale(0.9);
+        transform: scale(0.9);
+    }
+}
+.hvr-pulse-shrink {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+}
+.hvr-pulse-shrink:hover, .hvr-pulse-shrink:focus, .hvr-pulse-shrink:active {
+    -webkit-animation-name: hvr-pulse-shrink;
+    animation-name: hvr-pulse-shrink;
+    -webkit-animation-duration: 0.3s;
+    animation-duration: 0.3s;
+    -webkit-animation-timing-function: linear;
+    animation-timing-function: linear;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+    -webkit-animation-direction: alternate;
+    animation-direction: alternate;
+}
+/* Underline From Center */
+.hvr-underline-from-center {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    position: relative;
+    overflow: hidden;
+}
+.hvr-underline-from-center:before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    left: 51%;
+    right: 51%;
+    bottom: 0;
+    background: #2098D1;
+    height: 4px;
+    -webkit-transition-property: left, right;
+    transition-property: left, right;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-timing-function: ease-out;
+    transition-timing-function: ease-out;
+}
+.hvr-underline-from-center:hover:before, .hvr-underline-from-center:focus:before, .hvr-underline-from-center:active:before {
+    left: 0;
+    right: 0;
+}
+h1.title-text{
+    line-height: 40px;
+    font-weight: 700;
+    font-size: 32px;
+    color: #FA2742;
+    text-transform: uppercase;
+}
+h1.title-text::before{
+    z-index: -1;
+    background-color: #BFA170;
+    display: block;
+    content: "";
+    position: relative;
+}
+.lobby-color {
+    color: white;
+}
+.join-lobby-section {
+    width: 75%;
+    float: left;
+    border-radius: 5px;
+    height: auto;
+    background-color: orange;
+    margin-bottom: 15px;
+    margin-right: 1%;
+}
+.create-lobby-section {
+    //width: 24%;
+    float: right;
+    border-radius: 5px;
+    height: auto;
+    display: inline-block;
+    //text-align: center;
+}
+.chatbox {
+    width: 70%;
+    height: 40px;
+}
+.button-style-one {
+    padding: 15px 25px;
+    color: #fff;
+    font-size: 19px;
+    font-weight: 400;
+    border-radius: 6px;
+    transition: 300ms linear;
+    background: #61aff3;
+}
+.card, .card-text {
+    color: #373833;
+    font-weight: 500;
+}
+
+.card{
+    width: 76%;
+}
+div .lobby-spatie {
+    border: 8px solid hsl(0, 100%, 50%);
+    -webkit-animation: rainbow 2s infinite alternate;
+}
+
+#demo {
+    margin-top: 15px;
+    width: 100%;
+}
+
+div.scrollbar {
+    background-color: #c0c0c0;
+    width: 100%;
+    height: 250px;
+    overflow: auto;
+}
+
+#messagesList, #messageInput, #nick {
+    color: #FA2742;
+    font-weight: 700;
+}
+#messageInput {
+    border-radius: 15px;
+    border: none;
+    border-bottom: 2px solid #c0c0c0;
+
+}
+ul#messagesList {
+    padding-left: 0px;
+}
+
+/*Spelregels*/
+.wrapper {
+    width: 1000px;
+    margin: 0 auto;
+}
+h1.h1-spelregels{
+    line-height: 40px;
+    font-weight: 700;
+    font-size: 32px;
+    color: #FA2742;
+    text-transform: uppercase;
+}
+h1.h1-spelregels::before{
+    z-index: -1;
+    background-color: #FA2742;
+    display: block;
+    top: 23px;
+    height: 8px;
+    width: 100%;
+    content: "";
+    position: relative;
+}
+span.lijn{
+    display: inline-block;
+    z-index: 1;
+    padding-right: 10px;
+    background-color: #E8EAE3;
+}
+h2, p, h6 {
+    color: #373833;
+}
+.img-spelregels{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.hidden{
+    color:red;
+    border: 1px solid red;
+    display:none;
+    border-radius:15px;
+    width:220px;
+    margin:auto;
+    margin-top:8px;
+}
+.btn-primary {
+    width: 140px;
+    height: 40px;
+}
+
+/*Spel*/
+.form-box-2{
+    float: left;
+    width: 47%;
+    padding: 10px;
+    position: absolute;
+    top: 52%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: #501f3a;
+    text-align: center;
+    border-radius: 50px;
+    opacity: 1;
+    display: block;
+}
+
+h3.title-text{
+    line-height: 40px;
+    font-weight: 700;
+    font-size: 16px;
+    color: #FA2742;
+    text-transform: uppercase;
+}
+
+.move-buttons-center{
+    margin-left: -0.1%;
+}
+
+.textcolor{
+    color: black;
+}
+.form-button input[type = "button"] {
+    border: 1px;
+    padding: 20px;
+    margin: 4px 2px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.form-pin input[type = "pin"]{
+    border: 1px;
+    padding: 5px;
+    margin: 4px 2px;
+    height: 1px;
+    width: 1px;
+    border-radius: 50%;
+    margin-top: 35%;
+}
+
+.form-button input[value = "Check"]{
+    width: 80px;
+    border-radius: 15%;
+}
+
+.random {
+    height: 50px;
+    width: 75px;
+}
+
+.solution-color{
+    background: linear-gradient(270deg, #ff0000, #fcff00, #ffa700, #26c900, #0074ff, #b600da);
+    background-size: 1200% 1200%;
+
+    -webkit-animation: AnimationName 30s ease infinite;
+    -moz-animation: AnimationName 30s ease infinite;
+    animation: AnimationName 30s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+
+.b_black{
+    background-color: black;
+}
+
+.b_white{
+    background-color: white;
+}
+
+.b_red{
+    background-color: red;
+}
+
+.b_yellow{
+    background-color: yellow;
+}
+
+.b_orange{
+    background-color: orange;
+}
+
+.b_green{
+    background-color: green;
+}
+
+.b_blue{
+    background-color: blue;
+}
+
+.b_purple{
+    background-color: purple;
+}
+
+.b_lightgrey{
+    background-color: lightgray;
+}
+
+.b_nobackground{
+    background-color: unset;
+}
+
+.b_brown{
+    background-color: saddlebrown;
+}
+/*LOBBY*/
+.card {
+    width: 100%;
+}
+.playerlist {
+    width: 35%;
+}
+.gamesettings {
+    width: 50%;
+    float: right;
+}
+
+iframe {
+    width: 100%;
+    height: 500px;
+}
+iframe a {
+    display: initial;
+}
+iframe.chat {
+    float: right;
+    width: 30%;
+    display: inline-block;
+}
+/*Winner*/
+.winner-bg
+{
+    position: absolute;
+    z-index: -1;
+    top: 0px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url(https://cdn.discordapp.com/attachments/580389867553423381/581535170755297281/image0.jpg);
+    background-size: cover;
+    filter: blur(2px);
+}
+
+.winner-bg-2
+{
+    position: absolute;
+    z-index: -1;
+    top: 0px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url(https://i.ytimg.com/vi/1ytvp5Ly5qI/hqdefault.jpg);
+    background-size: cover;
+    filter: blur(2px);
+}
+
+.winner-box
+{
+    position: absolute;
+    top: calc(55% - 85px);
+    left: calc(50% - 412px);
+    width: 825px;
+    height: 170px;
+    transform: skew(-15deg);
+    background: rgba(0,0,0,.6);
+    transition: all 300ms ease;
+}.winner-box-2
+{
+    position: absolute;
+    top: calc(55% - 85px);
+    left: calc(50% - 412px);
+    width: 825px;
+    height: 170px;
+    transform: skew(-15deg);
+    background: rgba(0,0,0,.6);
+    transition: all 300ms ease;
+}
+
+.winner-name
+{
+    position: relative;
+    display: block;
+    top: 50%;
+    left: 11%;
+    transform: skew(15deg) translateY(-50%);
+    font-size: 4em;
+    text-transform: uppercase;
+    text-align: center;
+    color: #FFF;
+}
+.winner-name-2
+{
+    content: "Loser";
+    position: relative;
+    display: block;
+    top: 50%;
+    left: 11%;
+    transform: skew(15deg) translateY(-50%);
+    font-size: 4em;
+    text-transform: uppercase;
+    text-align: center;
+    color: #FFF;
+}
+
+.winner-logo
+{
+    position: absolute;
+    width: 206px;
+    height: inherit;
+    background: #E71D36;
+}
+
+.winner-logo:before
+{
+    content: '';
+    position: absolute;
+    width: 206px;
+    height: inherit;
+    left: 10px;
+    transform: skew(15deg);
+    background: url(https://goo.gl/85dlt4);
+    background-size: contain;
+}
+
+.winner-box:after
+{
+    content: 'winner';
+    position: absolute;
+    width: 275px;
+    height: 40px;
+    bottom: -40%;
+    left: calc(50% - 137px);
+    transform: skew(15deg);
+    text-align: center;
+    line-height: 40px;
+    font-size: 1.6em;
+    font-weight: 500;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    font-smoothing: antialiased;
+    background: #FFF222;
+}
+.winner-box-2:after
+{
+    content: 'LOSER';
+    position: absolute;
+    width: 275px;
+    height: 40px;
+    bottom: -40%;
+    left: calc(50% - 137px);
+    transform: skew(15deg);
+    text-align: center;
+    line-height: 40px;
+    font-size: 1.6em;
+    font-weight: 500;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    font-smoothing: antialiased;
+    background: #FFF222;
+}
+
+.leaveSpel {
+    width: 80px;
+    height: 50px;
+    border-radius: 15px;
+    border-color: #DDDDDD;
+    margin: 8px 2px;
+}

@@ -1,0 +1,15 @@
+C:\Users\11800460\Desktop\VisualC#\Demo\bin\Debug\Demo.exe.config
+C:\Users\11800460\Desktop\VisualC#\Demo\bin\Debug\Demo.exe
+C:\Users\11800460\Desktop\VisualC#\Demo\bin\Debug\Demo.pdb
+C:\Users\11800460\Desktop\VisualC#\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+C:\Users\11800460\Desktop\VisualC#\Demo\obj\Debug\MainWindow.g.cs
+C:\Users\11800460\Desktop\VisualC#\Demo\obj\Debug\App.g.cs
+C:\Users\11800460\Desktop\VisualC#\Demo\obj\Debug\Demo_MarkupCompile.cache
+C:\Users\11800460\Desktop\VisualC#\Demo\obj\Debug\Demo_MarkupCompile.lref
+C:\Users\11800460\Desktop\VisualC#\Demo\obj\Debug\MainWindow.baml
+C:\Users\11800460\Desktop\VisualC#\Demo\obj\Debug\Demo.g.resources
+C:\Users\11800460\Desktop\VisualC#\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\11800460\Desktop\VisualC#\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+C:\Users\11800460\Desktop\VisualC#\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\VisualC#\Demo\obj\Debug\Demo.exe
+C:\Users\11800460\Desktop\VisualC#\Demo\obj\Debug\Demo.pdb

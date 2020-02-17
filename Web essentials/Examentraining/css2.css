@@ -1,0 +1,12 @@
+.imglinks{
+    float: left;
+    width: 200px;
+}
+.imgrechts{
+    float: right;
+    width: 200px;
+}
+
+p{
+    text-align: center;
+}

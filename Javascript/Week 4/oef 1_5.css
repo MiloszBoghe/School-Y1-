@@ -1,0 +1,8 @@
+input, p, button {
+    float: left;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+#clearfix {
+    clear: both;
+}

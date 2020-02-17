@@ -1,0 +1,15 @@
+C:\Users\11800460\Desktop\VisualC#\Hello\bin\Debug\Hello.exe.config
+C:\Users\11800460\Desktop\VisualC#\Hello\bin\Debug\Hello.exe
+C:\Users\11800460\Desktop\VisualC#\Hello\bin\Debug\Hello.pdb
+C:\Users\11800460\Desktop\VisualC#\Hello\obj\Debug\Hello.csprojAssemblyReference.cache
+C:\Users\11800460\Desktop\VisualC#\Hello\obj\Debug\MainWindow.g.cs
+C:\Users\11800460\Desktop\VisualC#\Hello\obj\Debug\App.g.cs
+C:\Users\11800460\Desktop\VisualC#\Hello\obj\Debug\Hello_MarkupCompile.cache
+C:\Users\11800460\Desktop\VisualC#\Hello\obj\Debug\Hello_MarkupCompile.lref
+C:\Users\11800460\Desktop\VisualC#\Hello\obj\Debug\MainWindow.baml
+C:\Users\11800460\Desktop\VisualC#\Hello\obj\Debug\Hello.g.resources
+C:\Users\11800460\Desktop\VisualC#\Hello\obj\Debug\Hello.Properties.Resources.resources
+C:\Users\11800460\Desktop\VisualC#\Hello\obj\Debug\Hello.csproj.GenerateResource.cache
+C:\Users\11800460\Desktop\VisualC#\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\VisualC#\Hello\obj\Debug\Hello.exe
+C:\Users\11800460\Desktop\VisualC#\Hello\obj\Debug\Hello.pdb

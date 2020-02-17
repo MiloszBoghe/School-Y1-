@@ -1,0 +1,54 @@
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\bin\Debug\Soccer.exe.config
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\bin\Debug\Soccer.exe
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\bin\Debug\Soccer.pdb
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\obj\Debug\Soccer.csprojAssemblyReference.cache
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\obj\Debug\MainWindow.baml
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\obj\Debug\RankingWindow.baml
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\obj\Debug\GameWindow.baml
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\obj\Debug\MainWindow.g.cs
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\obj\Debug\RankingWindow.g.cs
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\obj\Debug\GameWindow.g.cs
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\obj\Debug\App.g.cs
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\obj\Debug\Soccer_MarkupCompile.cache
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\obj\Debug\Soccer.g.resources
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\obj\Debug\Soccer.Properties.Resources.resources
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\obj\Debug\Soccer.csproj.GenerateResource.cache
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\obj\Debug\Soccer.csproj.CoreCompileInputs.cache
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\obj\Debug\Soccer.exe
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\obj\Debug\Soccer.pdb
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal\bin\Debug\Soccer.exe.config
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal\bin\Debug\Soccer.exe
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal\bin\Debug\Soccer.pdb
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal\obj\Debug\Soccer.csprojAssemblyReference.cache
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal\obj\Debug\MainWindow.baml
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal\obj\Debug\RankingWindow.baml
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal\obj\Debug\GameWindow.baml
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal\obj\Debug\MainWindow.g.cs
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal\obj\Debug\RankingWindow.g.cs
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal\obj\Debug\GameWindow.g.cs
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal\obj\Debug\App.g.cs
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal\obj\Debug\Soccer_MarkupCompile.cache
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal\obj\Debug\Soccer.g.resources
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal\obj\Debug\Soccer.Properties.Resources.resources
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal\obj\Debug\Soccer.csproj.GenerateResource.cache
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal\obj\Debug\Soccer.csproj.CoreCompileInputs.cache
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal\obj\Debug\Soccer.exe
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal\obj\Debug\Soccer.pdb
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal - kopie\bin\Debug\Soccer.exe.config
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal - kopie\bin\Debug\Soccer.exe
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal - kopie\bin\Debug\Soccer.pdb
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal - kopie\obj\Debug\Soccer.csprojAssemblyReference.cache
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal - kopie\obj\Debug\MainWindow.baml
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal - kopie\obj\Debug\RankingWindow.baml
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal - kopie\obj\Debug\GameWindow.baml
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal - kopie\obj\Debug\MainWindow.g.cs
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal - kopie\obj\Debug\RankingWindow.g.cs
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal - kopie\obj\Debug\GameWindow.g.cs
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal - kopie\obj\Debug\App.g.cs
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal - kopie\obj\Debug\Soccer_MarkupCompile.cache
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal - kopie\obj\Debug\Soccer.g.resources
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal - kopie\obj\Debug\Soccer.Properties.Resources.resources
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal - kopie\obj\Debug\Soccer.csproj.GenerateResource.cache
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal - kopie\obj\Debug\Soccer.csproj.CoreCompileInputs.cache
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal - kopie\obj\Debug\Soccer.exe
+D:\Gebruikers\Gebruiker\Bureaublad\Voetbal - kopie\obj\Debug\Soccer.pdb

@@ -1,0 +1,19 @@
+﻿<Window x:Class="SphereAndBubble.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Sphere and Bubble" Height="350" Width="525">
+    <Grid>
+        <Button Content="Sphere" HorizontalAlignment="Left"
+                Margin="32,36,0,0" VerticalAlignment="Top" Width="75"
+                Name="sphereButton" Click="sphereButton_Click"/>
+        <Button Content="Bubble" HorizontalAlignment="Left"
+                Margin="32,84,0,0" VerticalAlignment="Top" Width="75"
+                Name="bubbleButton" Click="bubbleButton_Click"/>
+        <Button Content="Ball" HorizontalAlignment="Left"
+                Margin="32,126,0,0" VerticalAlignment="Top" Width="75"
+                Name="ballButton" Click="ballButton_Click"/>
+        <Canvas HorizontalAlignment="Left" Height="250" Margin="130,36,0,0"
+                VerticalAlignment="Top" Width="345"
+                Name="paperCanvas" Background="LightGray"/>
+    </Grid>
+</Window>

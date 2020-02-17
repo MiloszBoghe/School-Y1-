@@ -1,0 +1,30 @@
+body {
+    background-color: #6df469;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+h3 {
+    color: #27426d;
+    text-align: center;
+    font-size: 5vh;
+}
+div {
+    height: 20vw;
+    width: 20vw;
+    background:lightskyblue;
+    margin: 20px;
+    display: inline-block;
+}
+footer div.footer {
+    width: 100vw;
+    height: 5vh;
+    margin: 0;
+    background: orange;
+    text-align: center;
+    line-height: 1.5vh;
+}
+footer p {
+   font-size: 2vh;
+}

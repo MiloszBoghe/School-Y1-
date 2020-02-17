@@ -1,0 +1,19 @@
+﻿<Window x:Class="DominationGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DominationGame"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Name="mainGrid">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="14*"/>
+            <ColumnDefinition Width="19*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="" Name="xCoord" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.Column="1" Margin="273,84,0,0" Height="27" Width="144"/>
+        <Label Content="" Name="yCoord" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.Column="1" Margin="273,184,0,0" Height="27" Width="144"/>
+
+
+    </Grid>
+</Window>

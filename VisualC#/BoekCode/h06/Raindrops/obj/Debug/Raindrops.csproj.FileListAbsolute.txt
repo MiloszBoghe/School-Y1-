@@ -1,0 +1,14 @@
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h06\Raindrops\bin\Debug\Raindrops.exe.config
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h06\Raindrops\bin\Debug\Raindrops.exe
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h06\Raindrops\bin\Debug\Raindrops.pdb
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h06\Raindrops\obj\Debug\Raindrops.csprojAssemblyReference.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h06\Raindrops\obj\Debug\MainWindow.baml
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h06\Raindrops\obj\Debug\MainWindow.g.cs
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h06\Raindrops\obj\Debug\App.g.cs
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h06\Raindrops\obj\Debug\Raindrops_MarkupCompile.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h06\Raindrops\obj\Debug\Raindrops.g.resources
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h06\Raindrops\obj\Debug\Raindrops.Properties.Resources.resources
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h06\Raindrops\obj\Debug\Raindrops.csproj.GenerateResource.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h06\Raindrops\obj\Debug\Raindrops.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h06\Raindrops\obj\Debug\Raindrops.exe
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h06\Raindrops\obj\Debug\Raindrops.pdb

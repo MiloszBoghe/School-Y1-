@@ -1,0 +1,14 @@
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h05\LogoMethod\bin\Debug\LogoMethod.exe.config
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h05\LogoMethod\bin\Debug\LogoMethod.exe
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h05\LogoMethod\bin\Debug\LogoMethod.pdb
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h05\LogoMethod\obj\Debug\LogoMethod.csprojAssemblyReference.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h05\LogoMethod\obj\Debug\MainWindow.baml
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h05\LogoMethod\obj\Debug\MainWindow.g.cs
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h05\LogoMethod\obj\Debug\App.g.cs
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h05\LogoMethod\obj\Debug\LogoMethod_MarkupCompile.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h05\LogoMethod\obj\Debug\LogoMethod.g.resources
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h05\LogoMethod\obj\Debug\LogoMethod.Properties.Resources.resources
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h05\LogoMethod\obj\Debug\LogoMethod.csproj.GenerateResource.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h05\LogoMethod\obj\Debug\LogoMethod.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h05\LogoMethod\obj\Debug\LogoMethod.exe
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h05\LogoMethod\obj\Debug\LogoMethod.pdb

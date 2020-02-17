@@ -1,0 +1,15 @@
+﻿<Window x:Class="ReadPosition.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ReadPosition"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Canvas x:Name="positionCanvas" HorizontalAlignment="Left" Height="350" Margin="132,47,0,0" VerticalAlignment="Top" Width="615" Background="Blue" MouseMove="Canvas_MouseMove">
+            <TextBox x:Name="positionTextBox" Height="23" TextWrapping="Wrap" Text="TextBox" Canvas.Top="327" Width="615"/>
+        </Canvas>
+
+    </Grid>
+</Window>

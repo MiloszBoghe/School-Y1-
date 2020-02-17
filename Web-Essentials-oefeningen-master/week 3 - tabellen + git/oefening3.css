@@ -1,0 +1,25 @@
+body {
+    background: #00A000;
+}
+table tr, table td {
+    border: 1px solid black;
+    padding: 5px;
+}
+table {
+    border-collapse: collapse;
+    margin-bottom: 50px;
+}
+img {
+    margin: 5px;
+}
+td.image {
+    text-align: center;
+    width: 180px;
+    height: 180px;
+}
+td.name {
+    width: 300px;
+}
+td.center {
+    text-align: center;
+}

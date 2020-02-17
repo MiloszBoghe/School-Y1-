@@ -1,0 +1,22 @@
+﻿<Window x:Class="TheSafe.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="The Safe" Height="312.4" Width="213">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="27,29,0,0"
+                   Text="Enter the code:" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23"
+                 Margin="27,64,0,0" VerticalAlignment="Top" Width="120"
+                 Name="codeTextBox"/>
+        <Button Content="Unlock" HorizontalAlignment="Left"
+                Margin="27,149,0,0" VerticalAlignment="Top"
+                Width="75"
+                Name="unlockButton" Click="unlockButton_Click"/>
+        <Label Content="Locked" HorizontalAlignment="Left"
+               Margin="27,216,0,0" VerticalAlignment="Top"
+               Name="statusLabel"/>
+
+
+
+    </Grid>
+</Window>

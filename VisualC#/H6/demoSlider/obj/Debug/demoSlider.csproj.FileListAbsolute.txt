@@ -1,0 +1,15 @@
+C:\Users\11800460\Desktop\VisualC#\H6\demoSlider\bin\Debug\demoSlider.exe.config
+C:\Users\11800460\Desktop\VisualC#\H6\demoSlider\bin\Debug\demoSlider.exe
+C:\Users\11800460\Desktop\VisualC#\H6\demoSlider\bin\Debug\demoSlider.pdb
+C:\Users\11800460\Desktop\VisualC#\H6\demoSlider\obj\Debug\demoSlider.csprojAssemblyReference.cache
+C:\Users\11800460\Desktop\VisualC#\H6\demoSlider\obj\Debug\MainWindow.g.cs
+C:\Users\11800460\Desktop\VisualC#\H6\demoSlider\obj\Debug\App.g.cs
+C:\Users\11800460\Desktop\VisualC#\H6\demoSlider\obj\Debug\demoSlider_MarkupCompile.cache
+C:\Users\11800460\Desktop\VisualC#\H6\demoSlider\obj\Debug\demoSlider_MarkupCompile.lref
+C:\Users\11800460\Desktop\VisualC#\H6\demoSlider\obj\Debug\MainWindow.baml
+C:\Users\11800460\Desktop\VisualC#\H6\demoSlider\obj\Debug\demoSlider.g.resources
+C:\Users\11800460\Desktop\VisualC#\H6\demoSlider\obj\Debug\demoSlider.Properties.Resources.resources
+C:\Users\11800460\Desktop\VisualC#\H6\demoSlider\obj\Debug\demoSlider.csproj.GenerateResource.cache
+C:\Users\11800460\Desktop\VisualC#\H6\demoSlider\obj\Debug\demoSlider.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\VisualC#\H6\demoSlider\obj\Debug\demoSlider.exe
+C:\Users\11800460\Desktop\VisualC#\H6\demoSlider\obj\Debug\demoSlider.pdb

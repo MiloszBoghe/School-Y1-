@@ -1,0 +1,24 @@
+Toon princessen die Coombs of astrid heten
+	db.royals.find({title:'Prinses',$or:[{lastname:'Coombs'},{firstname:'Astrid'}]})
+
+
+
+Toon alle princessen en alle gehuwde prinsen
+	db.royals.find({$or:[{title:'Prinses'},{title:'Prins',married:true}]})
+
+
+
+Toon de king en alle prinsen met een dotatie maar toon enkel firstname en id, en sorteer op firstname
+>	db.royals.find( {$or: [ { title:'King' } , {title:'Prins', dotation: { $exists:true } } ] },{firstname:1} ).pretty().sort({firstname:1})
+
+
+Toon mensen die niet getrouwd zijn (of waarvan het niet geweten is) EN die prinses zijn of een dotatie krijgen
+
+ db.royals.find( { $or: [ {married:false},{married:{$exists:false}} ], 
+				   $or:[ { title:'Prinses' } ,{dotation: { $exists:true } } ] },{firstname:1} ).pretty()
+
+ db.royals.find( { married:{$neq:true}, 
+				   $or:[ { title:'Prinses' } ,{dotation: { $exists:true } } ] },{firstname:1} ).pretty()
+
+Toon id en firstname van getrouwde mensen met een id < 4 en overleden mensen met een id >= 5
+

@@ -1,0 +1,14 @@
+C:\Users\11800460\Desktop\VisualC#\TEe\bin\Debug\TEe.exe.config
+C:\Users\11800460\Desktop\VisualC#\TEe\bin\Debug\TEe.exe
+C:\Users\11800460\Desktop\VisualC#\TEe\bin\Debug\TEe.pdb
+C:\Users\11800460\Desktop\VisualC#\TEe\obj\Debug\MainWindow.g.cs
+C:\Users\11800460\Desktop\VisualC#\TEe\obj\Debug\App.g.cs
+C:\Users\11800460\Desktop\VisualC#\TEe\obj\Debug\TEe_MarkupCompile.cache
+C:\Users\11800460\Desktop\VisualC#\TEe\obj\Debug\TEe_MarkupCompile.lref
+C:\Users\11800460\Desktop\VisualC#\TEe\obj\Debug\MainWindow.baml
+C:\Users\11800460\Desktop\VisualC#\TEe\obj\Debug\TEe.g.resources
+C:\Users\11800460\Desktop\VisualC#\TEe\obj\Debug\TEe.Properties.Resources.resources
+C:\Users\11800460\Desktop\VisualC#\TEe\obj\Debug\TEe.csproj.GenerateResource.cache
+C:\Users\11800460\Desktop\VisualC#\TEe\obj\Debug\TEe.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\VisualC#\TEe\obj\Debug\TEe.exe
+C:\Users\11800460\Desktop\VisualC#\TEe\obj\Debug\TEe.pdb

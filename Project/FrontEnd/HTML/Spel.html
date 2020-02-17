@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>MM19 - Spel: Mastermind</title>
+    <link rel="stylesheet" href="CSS/global.css">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+            integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+            crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+            integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+            crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+            integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+            crossorigin="anonymous"></script>
+    <script>if (typeof module === 'object') {
+        window.module = module;
+        module = undefined;
+    }</script>
+    <!-- normal script imports etc  -->
+    <script src="JS/jquery-3.4.1.min.js"></script>
+    <script>if (window.module) module = window.module;</script>
+</head>
+<body class="lobby">
+<nav class="navbar-main">
+    <a href="#" class="navbar-logo "><img
+            src="https://cdn.discordapp.com/attachments/580389867553423381/581112638402986003/WBCEQgAhGIQAQiEIHLBBKTl9F1YQQiEIEIRCACEYhAYrIEIEIRCACEYhABCJwmUBi8jK6LoxABCIQgQhEIAIRSEzWByIQgQhEIAI.png"
+            alt=""></a>
+    <ul>
+        <li class="hvr-pulse-shrink hvr-underline-from-center"><a href="LobbyList.html">Lobbies</a></li>
+        <li class="hvr-pulse-shrink hvr-underline-from-center"><a href="Spelregels.html">Spelregels</a></li>
+        <li id="logout" class="hvr-pulse-shrink hvr-underline-from-center"><a href="index.html">Logout</a></li>
+    </ul>
+</nav>
+<form class="form-box-2" method="post">
+    <article class="move-center">
+        <article>
+            <form class="form-button">
+
+            </form>
+        </article>
+        <article>
+            <form class="form-button">
+                <article class="form-pin" style="float: left">
+                    <input type="pin" class="b_black">
+                    <input type="pin" class="b_black">
+                    <input type="pin" class="b_black">
+                    <input type="pin" class="b_black">
+                </article>
+                <span>
+                    <input type="button" class="b_lightgrey">
+                    <input type="button" class="b_lightgrey">
+                    <input type="button" class="b_lightgrey">
+                    <input type="button" class="b_lightgrey">
+                </span>
+
+                <input type="button" style="visibility: hidden" class="checkButton" value="Check">
+            </form>
+        </article>
+        <article>
+            <form class="form-button">
+                <article class="form-pin" style="float: left">
+                    <input type="pin" class="b_black">
+                    <input type="pin" class="b_black">
+                    <input type="pin" class="b_black">
+                    <input type="pin" class="b_black">
+                </article>
+                <span>
+                    <input type="button" class="b_lightgrey">
+                    <input type="button" class="b_lightgrey">
+                    <input type="button" class="b_lightgrey">
+                    <input type="button" class="b_lightgrey">
+                </span>
+
+                <input type="button" style="visibility: hidden" class="checkButton" value="Check">
+            </form>
+        </article>
+        <article>
+            <form class="form-button">
+                <article class="form-pin" style="float: left">
+                    <input type="pin" class="b_black">
+                    <input type="pin" class="b_black">
+                    <input type="pin" class="b_black">
+                    <input type="pin" class="b_black">
+                </article>
+                <span>
+                    <input type="button" class="b_lightgrey">
+                    <input type="button" class="b_lightgrey">
+                    <input type="button" class="b_lightgrey">
+                    <input type="button" class="b_lightgrey">
+                </span>
+
+                <input type="button" style="visibility: hidden" class="checkButton" value="Check">
+            </form>
+        </article>
+        <article>
+            <form class="form-button">
+                <article class="form-pin" style="float: left">
+                    <input type="pin" class="b_black">
+                    <input type="pin" class="b_black">
+                    <input type="pin" class="b_black">
+                    <input type="pin" class="b_black">
+                </article>
+                <span>
+                    <input type="button" class="b_lightgrey">
+                    <input type="button" class="b_lightgrey">
+                    <input type="button" class="b_lightgrey">
+                    <input type="button" class="b_lightgrey">
+                </span>
+
+                <input type="button" style="visibility: hidden" class="checkButton" value="Check">
+            </form>
+        </article>
+        <article>
+            <form class="form-button">
+                <article class="form-pin" style="float: left">
+                    <input type="pin" class="b_black">
+                    <input type="pin" class="b_black">
+                    <input type="pin" class="b_black">
+                    <input type="pin" class="b_black">
+                </article>
+                <span>
+                    <input type="button" class="b_lightgrey">
+                    <input type="button" class="b_lightgrey">
+                    <input type="button" class="b_lightgrey">
+                    <input type="button" class="b_lightgrey">
+                </span>
+
+                <input type="button" style="visibility: hidden" class="checkButton" value="Check">
+            </form>
+        </article>
+        <article>
+            <form class="form-button">
+                <article class="form-pin" style="float: left">
+                    <input type="pin" class="b_black">
+                    <input type="pin" class="b_black">
+                    <input type="pin" class="b_black">
+                    <input type="pin" class="b_black">
+                </article>
+                <span>
+                    <input type="button" class="b_lightgrey">
+                    <input type="button" class="b_lightgrey">
+                    <input type="button" class="b_lightgrey">
+                    <input type="button" class="b_lightgrey">
+                </span>
+
+                <input type="button" style="visibility: hidden" class="checkButton" value="Check">
+            </form>
+        </article>
+        <article>
+            <form class="form-button">
+                <article class="form-pin" style="float: left">
+                    <input type="pin" class="b_black">
+                    <input type="pin" class="b_black">
+                    <input type="pin" class="b_black">
+                    <input type="pin" class="b_black">
+                </article>
+                <span>
+                    <input type="button" class="b_lightgrey">
+                    <input type="button" class="b_lightgrey">
+                    <input type="button" class="b_lightgrey">
+                    <input type="button" class="b_lightgrey">
+                </span>
+
+                <input type="button" style="visibility: hidden" class="checkButton" value="Check">
+            </form>
+        </article>
+        <article>
+            <form class="form-button">
+                <article class="form-pin" style="float: left">
+                    <input type="pin" class="b_black">
+                    <input type="pin" class="b_black">
+                    <input type="pin" class="b_black">
+                    <input type="pin" class="b_black">
+                </article>
+                <span>
+                    <input type="button" class="b_lightgrey">
+                    <input type="button" class="b_lightgrey">
+                    <input type="button" class="b_lightgrey">
+                    <input type="button" class="b_lightgrey">
+                </span>
+
+                <input type="button" style="visibility: hidden" class="checkButton" value="Check">
+            </form>
+        </article>
+
+        <article>
+            <form class="form-button">
+                <article class="form-pin" style="float: left">
+                    <input type="pin" class="b_black">
+                    <input type="pin" class="b_black">
+                    <input type="pin" class="b_black">
+                    <input type="pin" class="b_black">
+                </article>
+                <span>
+                    <input type="button" class="b_lightgrey">
+                    <input type="button" class="b_lightgrey">
+                    <input type="button" class="b_lightgrey">
+                    <input type="button" class="b_lightgrey">
+                </span>
+
+                <input type="button" style="visibility: hidden" class="checkButton" value="Check">
+            </form>
+        </article>
+
+        <article>
+            <form class="form-button">
+                <article class="form-pin" style="float: left">
+                    <input type="pin" class="b_black">
+                    <input type="pin" class="b_black">
+                    <input type="pin" class="b_black">
+                    <input type="pin" class="b_black">
+                </article>
+                <span>
+                    <input type="button" class="b_lightgrey">
+                    <input type="button" class="b_lightgrey">
+                    <input type="button" class="b_lightgrey">
+                    <input type="button" class="b_lightgrey">
+                </span>
+                <input type="button" style="visibility: hidden" class="checkButton" value="Check">
+            </form>
+            <form class="form-button move-buttons-center">
+                <input type="button" class="b_black colors">
+                <input type="button" class="b_white colors">
+                <input type="button" class="b_red colors">
+                <input type="button" class="b_yellow colors">
+                <input type="button" class="b_orange colors">
+                <input type="button" class="b_green colors">
+                <input type="button" class="b_blue colors">
+                <input type="button" class="b_purple colors">
+            </form>
+        </article>
+        <button type="button" class="leaveSpel">leave</button>
+        <span class="hidden YetToMove"></span>
+    </article>
+</form>
+<script src="JS/Spel.js"></script>
+</body>
+</html>

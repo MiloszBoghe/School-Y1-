@@ -1,0 +1,11 @@
+﻿<Window x:Class="MultipleWindows.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Eerste venster" Height="140" Width="250">
+    <Grid>
+        <Button Content="Open" HorizontalAlignment="Left" Margin="50,50,0,0"
+                VerticalAlignment="Top" Width="75"
+                Name="openButton" Click="openButton_Click"/>
+
+    </Grid>
+</Window>

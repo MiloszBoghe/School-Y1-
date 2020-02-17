@@ -1,0 +1,15 @@
+C:\Users\11800460\Desktop\VisualC#\H22\demoInterface\bin\Debug\demoInterface.exe.config
+C:\Users\11800460\Desktop\VisualC#\H22\demoInterface\bin\Debug\demoInterface.exe
+C:\Users\11800460\Desktop\VisualC#\H22\demoInterface\bin\Debug\demoInterface.pdb
+C:\Users\11800460\Desktop\VisualC#\H22\demoInterface\obj\Debug\demoInterface.csprojAssemblyReference.cache
+C:\Users\11800460\Desktop\VisualC#\H22\demoInterface\obj\Debug\MainWindow.g.cs
+C:\Users\11800460\Desktop\VisualC#\H22\demoInterface\obj\Debug\App.g.cs
+C:\Users\11800460\Desktop\VisualC#\H22\demoInterface\obj\Debug\demoInterface_MarkupCompile.cache
+C:\Users\11800460\Desktop\VisualC#\H22\demoInterface\obj\Debug\demoInterface_MarkupCompile.lref
+C:\Users\11800460\Desktop\VisualC#\H22\demoInterface\obj\Debug\MainWindow.baml
+C:\Users\11800460\Desktop\VisualC#\H22\demoInterface\obj\Debug\demoInterface.g.resources
+C:\Users\11800460\Desktop\VisualC#\H22\demoInterface\obj\Debug\demoInterface.Properties.Resources.resources
+C:\Users\11800460\Desktop\VisualC#\H22\demoInterface\obj\Debug\demoInterface.csproj.GenerateResource.cache
+C:\Users\11800460\Desktop\VisualC#\H22\demoInterface\obj\Debug\demoInterface.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\VisualC#\H22\demoInterface\obj\Debug\demoInterface.exe
+C:\Users\11800460\Desktop\VisualC#\H22\demoInterface\obj\Debug\demoInterface.pdb

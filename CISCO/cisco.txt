@@ -1,0 +1,9 @@
+en
+int g0/0
+ip address 192.168.0.0 255.255.255.0
+no shutdown
+exit
+
+ip route (netwerk id), (subnet), ip van naar toe te sturen router
+
+repeat voor elk ip

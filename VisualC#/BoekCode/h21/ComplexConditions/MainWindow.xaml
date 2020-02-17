@@ -1,0 +1,15 @@
+﻿<Window x:Class="ComplexConditions.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Complex Conditions" Height="181.642" Width="236.045">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="50,35,0,0"
+                 VerticalAlignment="Top" Width="120"
+                 Name="wantedTextBox"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="50,87,0,0"
+                 VerticalAlignment="Top" Width="120"
+                 Name="resultTextBox"/>
+
+
+    </Grid>
+</Window>

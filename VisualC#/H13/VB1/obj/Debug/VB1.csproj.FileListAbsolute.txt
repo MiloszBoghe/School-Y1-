@@ -1,0 +1,15 @@
+C:\Users\11800460\Desktop\VisualC#\H13\VB1\bin\Debug\VB1.exe.config
+C:\Users\11800460\Desktop\VisualC#\H13\VB1\bin\Debug\VB1.exe
+C:\Users\11800460\Desktop\VisualC#\H13\VB1\bin\Debug\VB1.pdb
+C:\Users\11800460\Desktop\VisualC#\H13\VB1\obj\Debug\VB1.csprojAssemblyReference.cache
+C:\Users\11800460\Desktop\VisualC#\H13\VB1\obj\Debug\MainWindow.g.cs
+C:\Users\11800460\Desktop\VisualC#\H13\VB1\obj\Debug\App.g.cs
+C:\Users\11800460\Desktop\VisualC#\H13\VB1\obj\Debug\VB1_MarkupCompile.cache
+C:\Users\11800460\Desktop\VisualC#\H13\VB1\obj\Debug\VB1_MarkupCompile.lref
+C:\Users\11800460\Desktop\VisualC#\H13\VB1\obj\Debug\MainWindow.baml
+C:\Users\11800460\Desktop\VisualC#\H13\VB1\obj\Debug\VB1.g.resources
+C:\Users\11800460\Desktop\VisualC#\H13\VB1\obj\Debug\VB1.Properties.Resources.resources
+C:\Users\11800460\Desktop\VisualC#\H13\VB1\obj\Debug\VB1.csproj.GenerateResource.cache
+C:\Users\11800460\Desktop\VisualC#\H13\VB1\obj\Debug\VB1.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\VisualC#\H13\VB1\obj\Debug\VB1.exe
+C:\Users\11800460\Desktop\VisualC#\H13\VB1\obj\Debug\VB1.pdb

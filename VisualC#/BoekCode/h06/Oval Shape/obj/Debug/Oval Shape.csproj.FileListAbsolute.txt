@@ -1,0 +1,14 @@
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h06\Oval Shape\bin\Debug\Oval Shape.exe.config
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h06\Oval Shape\bin\Debug\Oval Shape.exe
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h06\Oval Shape\bin\Debug\Oval Shape.pdb
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h06\Oval Shape\obj\Debug\Oval Shape.csprojAssemblyReference.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h06\Oval Shape\obj\Debug\MainWindow.baml
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h06\Oval Shape\obj\Debug\MainWindow.g.cs
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h06\Oval Shape\obj\Debug\App.g.cs
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h06\Oval Shape\obj\Debug\Oval Shape_MarkupCompile.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h06\Oval Shape\obj\Debug\Oval Shape.g.resources
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h06\Oval Shape\obj\Debug\Oval_Shape.Properties.Resources.resources
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h06\Oval Shape\obj\Debug\Oval Shape.csproj.GenerateResource.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h06\Oval Shape\obj\Debug\Oval Shape.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h06\Oval Shape\obj\Debug\Oval Shape.exe
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h06\Oval Shape\obj\Debug\Oval Shape.pdb

@@ -1,0 +1,2 @@
+create table log_history(log_user varchar2(30),log_datum date, log_tijd timestamp, log_actie varchar2(15))
+/

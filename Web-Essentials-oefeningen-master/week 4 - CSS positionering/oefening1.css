@@ -1,0 +1,22 @@
+body {
+    background: black;
+}
+h1 {
+    color: yellow;
+    text-align: center;
+}
+article {
+    width: 20%;
+    height: 20%;
+    display: inline-block;
+    border: 2px solid green;
+    padding: 2%;
+    text-align: center;
+    min-width: 200px;
+}
+article img {
+    width: 80%;
+}
+article audio {
+    width: 100%;
+}

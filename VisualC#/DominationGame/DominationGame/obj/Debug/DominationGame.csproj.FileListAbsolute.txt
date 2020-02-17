@@ -1,0 +1,15 @@
+C:\Users\11800460\Desktop\VisualC#\DominationGame\DominationGame\bin\Debug\DominationGame.exe.config
+C:\Users\11800460\Desktop\VisualC#\DominationGame\DominationGame\bin\Debug\DominationGame.exe
+C:\Users\11800460\Desktop\VisualC#\DominationGame\DominationGame\bin\Debug\DominationGame.pdb
+C:\Users\11800460\Desktop\VisualC#\DominationGame\DominationGame\obj\Debug\DominationGame.csprojAssemblyReference.cache
+C:\Users\11800460\Desktop\VisualC#\DominationGame\DominationGame\obj\Debug\MainWindow.g.cs
+C:\Users\11800460\Desktop\VisualC#\DominationGame\DominationGame\obj\Debug\App.g.cs
+C:\Users\11800460\Desktop\VisualC#\DominationGame\DominationGame\obj\Debug\DominationGame_MarkupCompile.cache
+C:\Users\11800460\Desktop\VisualC#\DominationGame\DominationGame\obj\Debug\DominationGame_MarkupCompile.lref
+C:\Users\11800460\Desktop\VisualC#\DominationGame\DominationGame\obj\Debug\MainWindow.baml
+C:\Users\11800460\Desktop\VisualC#\DominationGame\DominationGame\obj\Debug\DominationGame.g.resources
+C:\Users\11800460\Desktop\VisualC#\DominationGame\DominationGame\obj\Debug\DominationGame.Properties.Resources.resources
+C:\Users\11800460\Desktop\VisualC#\DominationGame\DominationGame\obj\Debug\DominationGame.csproj.GenerateResource.cache
+C:\Users\11800460\Desktop\VisualC#\DominationGame\DominationGame\obj\Debug\DominationGame.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\VisualC#\DominationGame\DominationGame\obj\Debug\DominationGame.exe
+C:\Users\11800460\Desktop\VisualC#\DominationGame\DominationGame\obj\Debug\DominationGame.pdb

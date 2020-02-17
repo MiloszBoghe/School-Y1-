@@ -1,0 +1,15 @@
+C:\Users\11800460\Desktop\VisualC#\eersteTekening\bin\Debug\eersteTekening.exe.config
+C:\Users\11800460\Desktop\VisualC#\eersteTekening\bin\Debug\eersteTekening.exe
+C:\Users\11800460\Desktop\VisualC#\eersteTekening\bin\Debug\eersteTekening.pdb
+C:\Users\11800460\Desktop\VisualC#\eersteTekening\obj\Debug\eersteTekening.csprojAssemblyReference.cache
+C:\Users\11800460\Desktop\VisualC#\eersteTekening\obj\Debug\MainWindow.g.cs
+C:\Users\11800460\Desktop\VisualC#\eersteTekening\obj\Debug\App.g.cs
+C:\Users\11800460\Desktop\VisualC#\eersteTekening\obj\Debug\eersteTekening_MarkupCompile.cache
+C:\Users\11800460\Desktop\VisualC#\eersteTekening\obj\Debug\eersteTekening_MarkupCompile.lref
+C:\Users\11800460\Desktop\VisualC#\eersteTekening\obj\Debug\MainWindow.baml
+C:\Users\11800460\Desktop\VisualC#\eersteTekening\obj\Debug\eersteTekening.g.resources
+C:\Users\11800460\Desktop\VisualC#\eersteTekening\obj\Debug\eersteTekening.Properties.Resources.resources
+C:\Users\11800460\Desktop\VisualC#\eersteTekening\obj\Debug\eersteTekening.csproj.GenerateResource.cache
+C:\Users\11800460\Desktop\VisualC#\eersteTekening\obj\Debug\eersteTekening.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\VisualC#\eersteTekening\obj\Debug\eersteTekening.exe
+C:\Users\11800460\Desktop\VisualC#\eersteTekening\obj\Debug\eersteTekening.pdb

@@ -1,0 +1,21 @@
+#phoneController {
+    width: 300px;
+    height: 450px;
+    position: relative;
+}
+
+#phoneController img {
+    position: absolute;
+    top:0px;
+    left: 0px;
+    z-index: 300;
+    pointer-events: none;
+}
+
+#phoneController iframe {
+    width: 200px;
+    height: 414px;
+    position: absolute;
+    top: 18px;
+    left: 50px;
+}

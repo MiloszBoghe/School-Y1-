@@ -1,0 +1,15 @@
+C:\Users\11800460\Desktop\VisualC#\Gezicht\bin\Debug\Gezicht.exe.config
+C:\Users\11800460\Desktop\VisualC#\Gezicht\bin\Debug\Gezicht.exe
+C:\Users\11800460\Desktop\VisualC#\Gezicht\bin\Debug\Gezicht.pdb
+C:\Users\11800460\Desktop\VisualC#\Gezicht\obj\Debug\Gezicht.csprojAssemblyReference.cache
+C:\Users\11800460\Desktop\VisualC#\Gezicht\obj\Debug\MainWindow.g.cs
+C:\Users\11800460\Desktop\VisualC#\Gezicht\obj\Debug\App.g.cs
+C:\Users\11800460\Desktop\VisualC#\Gezicht\obj\Debug\Gezicht_MarkupCompile.cache
+C:\Users\11800460\Desktop\VisualC#\Gezicht\obj\Debug\Gezicht_MarkupCompile.lref
+C:\Users\11800460\Desktop\VisualC#\Gezicht\obj\Debug\MainWindow.baml
+C:\Users\11800460\Desktop\VisualC#\Gezicht\obj\Debug\Gezicht.g.resources
+C:\Users\11800460\Desktop\VisualC#\Gezicht\obj\Debug\Gezicht.Properties.Resources.resources
+C:\Users\11800460\Desktop\VisualC#\Gezicht\obj\Debug\Gezicht.csproj.GenerateResource.cache
+C:\Users\11800460\Desktop\VisualC#\Gezicht\obj\Debug\Gezicht.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\VisualC#\Gezicht\obj\Debug\Gezicht.exe
+C:\Users\11800460\Desktop\VisualC#\Gezicht\obj\Debug\Gezicht.pdb

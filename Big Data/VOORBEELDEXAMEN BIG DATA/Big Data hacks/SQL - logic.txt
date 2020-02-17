@@ -1,0 +1,75 @@
+PL/SQL LOGIC
+
+IF syntax
+_________________________
+
+
+IF condition THEN
+    statements;
+[ELSIF condition THEN
+    statements;]
+[ELSE
+    statements;]
+END IF;
+
+
+
+operators
+_________________________
+math            ** * / + -
+
+alpha           ||
+
+comp            = != <> < <= > >=
+                IS NULL
+                LIKE
+                BETWEEN
+                IN
+
+logic           AND OR NOT
+
+
+
+
+LOOP syntax
+_________________________
+
+LOOP
+    statements;
+    EXIT WHEN condition_;
+END LOOP;
+
+
+
+
+
+WHILE LOOP syntax
+_________________________
+
+WHILE condition_ LOOP
+    statements;
+END LOOP;
+
+
+
+
+
+FOR LOOP syntax
+_________________________
+
+FOR counter in 1..10 LOOP
+    statements;
+END LOOP;
+
+
+
+
+CURSOR LOOP syntax (for-each)
+_________________________
+
+FOR rec IN (SELECT
+            FROM
+            WHERE)
+            LOOP
+                rec.statements;
+END LOOP;

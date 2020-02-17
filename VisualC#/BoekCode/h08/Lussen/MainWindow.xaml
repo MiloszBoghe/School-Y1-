@@ -1,0 +1,21 @@
+﻿<Window x:Class="Lussen.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Lussen" Height="350" Width="525">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Height="23"
+                 Margin="45,30,0,0" VerticalAlignment="Top" Width="276"
+                 Name="numbersTextBox"/>
+        <Button Content="Button 1" HorizontalAlignment="Left"
+                Margin="45,81,0,0" VerticalAlignment="Top" Width="75"
+                Name="button1" Click="button1_Click"/>
+        <Button Content="Button 2" HorizontalAlignment="Left"
+                Margin="45,105,0,0" VerticalAlignment="Top" Width="75"
+                Name="button2" Click="button2_Click"/>
+        <Button Content="Button 3" HorizontalAlignment="Left"
+                Margin="45,129,0,0" VerticalAlignment="Top" Width="75"
+                Name="button3" Click="button3_Click"/>
+
+
+    </Grid>
+</Window>

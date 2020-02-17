@@ -1,0 +1,23 @@
+﻿<Window x:Class="Rainfall.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Rainfall" Height="260.448" Width="348.283">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="18,20,0,0"
+                   Text="index:" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="58,20,0,0"
+                 VerticalAlignment="Top" Width="50" Name="indexTextBox"/>
+        <TextBlock HorizontalAlignment="Left" Margin="138,20,0,0"
+        	Text="value:" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="178,20,0,0"
+        	VerticalAlignment="Top" Width="50" Name="valueTextBox"/>
+        <Button Content="Change" HorizontalAlignment="Left" Margin="248,20,0,0"
+                VerticalAlignment="Top" Width="75"
+                Name="changeButton" Click="changeButton_Click"/>
+        <TextBox HorizontalAlignment="Left" Height="125" Margin="58,55,0,0"
+                 TextWrapping="Wrap" VerticalAlignment="Top" Width="170"
+                 Name="rainfallTextBox"/>
+        <Label Content="" HorizontalAlignment="Left" Margin="58,185,0,0"
+               VerticalAlignment="Top" Name="largestLabel"/>
+    </Grid>
+</Window>

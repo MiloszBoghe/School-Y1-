@@ -1,0 +1,15 @@
+C:\Users\11800460\Desktop\VisualC#\H18\DemoMenu\bin\Debug\DemoMenu.exe.config
+C:\Users\11800460\Desktop\VisualC#\H18\DemoMenu\bin\Debug\DemoMenu.exe
+C:\Users\11800460\Desktop\VisualC#\H18\DemoMenu\bin\Debug\DemoMenu.pdb
+C:\Users\11800460\Desktop\VisualC#\H18\DemoMenu\obj\Debug\DemoMenu.csprojAssemblyReference.cache
+C:\Users\11800460\Desktop\VisualC#\H18\DemoMenu\obj\Debug\MainWindow.g.cs
+C:\Users\11800460\Desktop\VisualC#\H18\DemoMenu\obj\Debug\App.g.cs
+C:\Users\11800460\Desktop\VisualC#\H18\DemoMenu\obj\Debug\DemoMenu_MarkupCompile.cache
+C:\Users\11800460\Desktop\VisualC#\H18\DemoMenu\obj\Debug\DemoMenu_MarkupCompile.lref
+C:\Users\11800460\Desktop\VisualC#\H18\DemoMenu\obj\Debug\MainWindow.baml
+C:\Users\11800460\Desktop\VisualC#\H18\DemoMenu\obj\Debug\DemoMenu.g.resources
+C:\Users\11800460\Desktop\VisualC#\H18\DemoMenu\obj\Debug\DemoMenu.Properties.Resources.resources
+C:\Users\11800460\Desktop\VisualC#\H18\DemoMenu\obj\Debug\DemoMenu.csproj.GenerateResource.cache
+C:\Users\11800460\Desktop\VisualC#\H18\DemoMenu\obj\Debug\DemoMenu.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\VisualC#\H18\DemoMenu\obj\Debug\DemoMenu.exe
+C:\Users\11800460\Desktop\VisualC#\H18\DemoMenu\obj\Debug\DemoMenu.pdb

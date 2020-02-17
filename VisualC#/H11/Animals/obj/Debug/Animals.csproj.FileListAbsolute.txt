@@ -1,0 +1,15 @@
+C:\Users\11800460\Desktop\VisualC#\H11\Animals\bin\Debug\Animals.exe.config
+C:\Users\11800460\Desktop\VisualC#\H11\Animals\bin\Debug\Animals.exe
+C:\Users\11800460\Desktop\VisualC#\H11\Animals\bin\Debug\Animals.pdb
+C:\Users\11800460\Desktop\VisualC#\H11\Animals\obj\Debug\Animals.csprojAssemblyReference.cache
+C:\Users\11800460\Desktop\VisualC#\H11\Animals\obj\Debug\MainWindow.g.cs
+C:\Users\11800460\Desktop\VisualC#\H11\Animals\obj\Debug\App.g.cs
+C:\Users\11800460\Desktop\VisualC#\H11\Animals\obj\Debug\Animals_MarkupCompile.cache
+C:\Users\11800460\Desktop\VisualC#\H11\Animals\obj\Debug\Animals_MarkupCompile.lref
+C:\Users\11800460\Desktop\VisualC#\H11\Animals\obj\Debug\MainWindow.baml
+C:\Users\11800460\Desktop\VisualC#\H11\Animals\obj\Debug\Animals.g.resources
+C:\Users\11800460\Desktop\VisualC#\H11\Animals\obj\Debug\Animals.Properties.Resources.resources
+C:\Users\11800460\Desktop\VisualC#\H11\Animals\obj\Debug\Animals.csproj.GenerateResource.cache
+C:\Users\11800460\Desktop\VisualC#\H11\Animals\obj\Debug\Animals.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\VisualC#\H11\Animals\obj\Debug\Animals.exe
+C:\Users\11800460\Desktop\VisualC#\H11\Animals\obj\Debug\Animals.pdb

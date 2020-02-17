@@ -1,0 +1,7 @@
+C:\Users\11800460\Desktop\VisualC#\H19\demoConsole\bin\Debug\demoConsole.exe.config
+C:\Users\11800460\Desktop\VisualC#\H19\demoConsole\bin\Debug\demoConsole.exe
+C:\Users\11800460\Desktop\VisualC#\H19\demoConsole\bin\Debug\demoConsole.pdb
+C:\Users\11800460\Desktop\VisualC#\H19\demoConsole\obj\Debug\demoConsole.csprojAssemblyReference.cache
+C:\Users\11800460\Desktop\VisualC#\H19\demoConsole\obj\Debug\demoConsole.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\VisualC#\H19\demoConsole\obj\Debug\demoConsole.exe
+C:\Users\11800460\Desktop\VisualC#\H19\demoConsole\obj\Debug\demoConsole.pdb

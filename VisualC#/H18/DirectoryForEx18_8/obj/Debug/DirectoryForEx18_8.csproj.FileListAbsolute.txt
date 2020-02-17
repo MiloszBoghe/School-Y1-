@@ -1,0 +1,15 @@
+C:\Users\11800460\Desktop\VisualC#\H18\DirectoryForEx18_8\bin\Debug\DirectoryForEx18_8.exe.config
+C:\Users\11800460\Desktop\VisualC#\H18\DirectoryForEx18_8\bin\Debug\DirectoryForEx18_8.exe
+C:\Users\11800460\Desktop\VisualC#\H18\DirectoryForEx18_8\bin\Debug\DirectoryForEx18_8.pdb
+C:\Users\11800460\Desktop\VisualC#\H18\DirectoryForEx18_8\obj\Debug\DirectoryForEx18_8.csprojAssemblyReference.cache
+C:\Users\11800460\Desktop\VisualC#\H18\DirectoryForEx18_8\obj\Debug\MainWindow.g.cs
+C:\Users\11800460\Desktop\VisualC#\H18\DirectoryForEx18_8\obj\Debug\App.g.cs
+C:\Users\11800460\Desktop\VisualC#\H18\DirectoryForEx18_8\obj\Debug\DirectoryForEx18_8_MarkupCompile.cache
+C:\Users\11800460\Desktop\VisualC#\H18\DirectoryForEx18_8\obj\Debug\DirectoryForEx18_8_MarkupCompile.lref
+C:\Users\11800460\Desktop\VisualC#\H18\DirectoryForEx18_8\obj\Debug\MainWindow.baml
+C:\Users\11800460\Desktop\VisualC#\H18\DirectoryForEx18_8\obj\Debug\DirectoryForEx18_8.g.resources
+C:\Users\11800460\Desktop\VisualC#\H18\DirectoryForEx18_8\obj\Debug\DirectoryForEx18_8.Properties.Resources.resources
+C:\Users\11800460\Desktop\VisualC#\H18\DirectoryForEx18_8\obj\Debug\DirectoryForEx18_8.csproj.GenerateResource.cache
+C:\Users\11800460\Desktop\VisualC#\H18\DirectoryForEx18_8\obj\Debug\DirectoryForEx18_8.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\VisualC#\H18\DirectoryForEx18_8\obj\Debug\DirectoryForEx18_8.exe
+C:\Users\11800460\Desktop\VisualC#\H18\DirectoryForEx18_8\obj\Debug\DirectoryForEx18_8.pdb

@@ -1,0 +1,14 @@
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h20\CyberspaceInvader\bin\Debug\CyberspaceInvader.exe.config
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h20\CyberspaceInvader\bin\Debug\CyberspaceInvader.exe
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h20\CyberspaceInvader\bin\Debug\CyberspaceInvader.pdb
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h20\CyberspaceInvader\obj\Debug\CyberspaceInvader.csprojAssemblyReference.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h20\CyberspaceInvader\obj\Debug\Game.baml
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h20\CyberspaceInvader\obj\Debug\Game.g.cs
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h20\CyberspaceInvader\obj\Debug\App.g.cs
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h20\CyberspaceInvader\obj\Debug\CyberspaceInvader_MarkupCompile.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h20\CyberspaceInvader\obj\Debug\CyberspaceInvader.g.resources
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h20\CyberspaceInvader\obj\Debug\CyberspaceInvader.Properties.Resources.resources
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h20\CyberspaceInvader\obj\Debug\CyberspaceInvader.csproj.GenerateResource.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h20\CyberspaceInvader\obj\Debug\CyberspaceInvader.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h20\CyberspaceInvader\obj\Debug\CyberspaceInvader.exe
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h20\CyberspaceInvader\obj\Debug\CyberspaceInvader.pdb

@@ -1,0 +1,27 @@
+table, th, td{
+    border-collapse: collapse;
+    border: 1px solid black;
+    margin:50px;
+}
+
+thead{
+    background-color: midnightblue;
+    color: white;
+}
+tbody>tr:nth-child(odd){
+    background-color: blue;
+    color: white;
+}
+tbody>tr:nth-child(even){
+    background-color: dodgerblue;
+}
+tfoot{
+    background-color: darkblue;
+    color: white;
+}
+td,th{
+    width: 10%;
+    height: 10%;
+    text-align: center;
+    padding: 5px;
+}

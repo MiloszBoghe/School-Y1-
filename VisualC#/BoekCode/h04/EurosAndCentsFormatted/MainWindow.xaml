@@ -1,0 +1,24 @@
+﻿<Window x:Class="EurosAndCentsFormatted.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Euros and cents formatted" Height="180" Width="420">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Height="23"
+                 Margin="20,32,0,0" VerticalAlignment="Top"
+                 Width="120" Name="amountTextBox"
+                 VerticalContentAlignment="Center"/>
+        <TextBlock HorizontalAlignment="Left" Margin="20,72,0,0"
+                   Text="Input cents" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="160,32,0,0"
+                   Text="is" VerticalAlignment="Top"/>
+        <Label HorizontalAlignment="Left" Margin="200,32,0,0"
+               Name="resultsLabel" Width="200" Height="26"
+               VerticalAlignment="Top" Background="LightBlue"
+               VerticalContentAlignment="Center"/>
+        
+        <Button Content="Calculate" HorizontalAlignment="Left"
+                Margin="20,112,0,0" VerticalAlignment="Top"
+                Width="120" Name="calculateButton"
+                Click="calculateButton_Click"/>
+    </Grid>
+</Window>

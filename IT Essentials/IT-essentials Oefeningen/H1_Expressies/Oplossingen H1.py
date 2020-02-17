@@ -1,0 +1,31 @@
+
+print("tabel1:")
+print(1+2*3)
+print((1+2)*3)
+print(2**4)
+print(13%5)
+print(7/2)
+print(-7/2)
+print(7.0/2)
+print(7/2.0)
+print(7//2)
+print(9%-2)
+
+print("tabel2:")
+print(4*3+2*9/3)
+print(4*3+2*(9/3))
+print(4*(3+2)*9/3)
+print(20/4*6/2)
+print(20/4*(6/2))
+print((20/4)*6/2)
+print((20/4)*(6/2))
+print((2-3+(2*(12/4)+1)))
+print(5-(2+5)*10/2)
+print(4+2**5-3)
+print(-3/5-9%4)
+print(12/4*(-3)+(-1))
+
+
+print("klok oefening:",(14+535)%24)
+print("Extra oef:",456498456%10 , "en" ,456498456%100 )
+

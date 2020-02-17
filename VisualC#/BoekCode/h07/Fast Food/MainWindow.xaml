@@ -1,0 +1,22 @@
+﻿<Window x:Class="Fast_Food.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Fast Food" Height="253.233" Width="341.651">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Margin="82,117,0,0"
+                   Text="McBurgers" VerticalAlignment="Top"
+                   FontFamily="Gabriola" FontSize="50" FontWeight="Bold"
+                   Name="foodTextBox" IsEnabled="False" />
+        <Button Content="On" HorizontalAlignment="Left" Margin="41,82,0,0"
+                VerticalAlignment="Top" Width="75"
+                Name="onButton" Click="onButton_Click"/>
+        <Button Content="Off" HorizontalAlignment="Left" Margin="213,82,0,0"
+                VerticalAlignment="Top" Width="75"
+                Name="offButton" Click="offButton_Click"/>
+        <Button Content="Toggle" HorizontalAlignment="Left" Margin="127,30,0,0"
+                VerticalAlignment="Top" Width="75"
+                Name="toggleButton" Click="toggleButton_Click"/>
+
+
+    </Grid>
+</Window>

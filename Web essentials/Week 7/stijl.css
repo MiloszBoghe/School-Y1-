@@ -1,0 +1,123 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    width:96%;
+    background-color:#ededed;
+}
+
+header{
+    width:100%;
+    margin: 1% 2%;
+    font-weight:400;
+}
+.navbar{
+    position:fixed;
+    width:96%;
+
+}
+nav ul{
+    list-style-type: none;
+    width:100%;
+    background-color: rgb(87,222,135);
+}
+
+nav li{
+    display: inline-block;
+    padding-right: 10px;
+    font-size: 30px;
+    color: #343740;
+    vertical-align:middle;
+}
+
+#logo{
+    width:50px;
+}
+figure img {
+    width: 100%;
+}
+
+section{
+    margin: 0 2%;
+    width:100%;
+}
+section h1{
+    border-bottom: 1px solid black;
+    color:#093156;
+}
+article{
+    float:left;
+    width:23.5%;
+    height: auto;
+    padding: 0 1%;
+}
+article img{
+    width:100%;
+}
+
+section article:nth-of-type(4n+1){
+    padding-left:0;
+}
+section article:nth-of-type(4n+4){
+    padding-right:0;
+}
+
+article:hover{
+    opacity: 0.7;
+}
+
+h2{
+    font-size:20px;
+}
+.left{
+    float:left;
+}
+.right{
+    float:right;
+}
+
+article p:last-child{
+    font-size: small;
+}
+
+div.clearfix{
+    clear: both;
+}
+section nav{
+    clear:both;
+    text-align:center;
+}
+nav input{
+    margin-top:2%;
+    width: 150px;
+
+}
+
+.actie{
+    margin-top:35px;
+    margin-bottom:5px;
+}
+.actie p{
+    background-color:#093156;
+    color:white;
+}
+article p{
+    font-size:small;
+}
+
+footer{
+    height:200px;
+    width:100%;
+    display:inline-block;
+    margin: 1% 2%;
+
+}
+footer p{
+    color:white;
+    background-color:black;
+    text-align:center;
+    padding-top:50px;
+    padding-bottom:50px;
+}
+

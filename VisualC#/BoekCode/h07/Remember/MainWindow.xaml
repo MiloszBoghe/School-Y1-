@@ -1,0 +1,19 @@
+﻿<Window x:Class="Remember.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Remember" Height="243.046" Width="355.911">
+    <Grid>
+        <Button Content="Fill" HorizontalAlignment="Left"
+                Margin="35,27,0,0" VerticalAlignment="Top" Width="75"
+                Name="fillButton" Click="fillButton_Click"/>
+        <Button Content="Unfill" HorizontalAlignment="Left"
+                Margin="115,27,0,0" VerticalAlignment="Top" Width="75"
+                Name="unFillButton" Click="unFillButton_Click"/>
+        <Button Content="Draw" HorizontalAlignment="Left"
+                Margin="240,27,0,0" VerticalAlignment="Top" Width="75"
+                Name="drawButton" Click="drawButton_Click"/>
+        <Canvas HorizontalAlignment="Left" Height="122" Margin="35,68,0,0"
+                Name="paperCanvas" Background="LightGray" VerticalAlignment="Top" Width="280"/>
+
+    </Grid>
+</Window>

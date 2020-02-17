@@ -1,0 +1,15 @@
+C:\Users\11800460\Desktop\VisualC#\Guts-DotNetEssentials\Chapter5\Exercise14\bin\Debug\Exercise14.exe.config
+C:\Users\11800460\Desktop\VisualC#\Guts-DotNetEssentials\Chapter5\Exercise14\bin\Debug\Exercise14.exe
+C:\Users\11800460\Desktop\VisualC#\Guts-DotNetEssentials\Chapter5\Exercise14\bin\Debug\Exercise14.pdb
+C:\Users\11800460\Desktop\VisualC#\Guts-DotNetEssentials\Chapter5\Exercise14\obj\Debug\Exercise14.csprojAssemblyReference.cache
+C:\Users\11800460\Desktop\VisualC#\Guts-DotNetEssentials\Chapter5\Exercise14\obj\Debug\MainWindow.g.cs
+C:\Users\11800460\Desktop\VisualC#\Guts-DotNetEssentials\Chapter5\Exercise14\obj\Debug\App.g.cs
+C:\Users\11800460\Desktop\VisualC#\Guts-DotNetEssentials\Chapter5\Exercise14\obj\Debug\Exercise14_MarkupCompile.cache
+C:\Users\11800460\Desktop\VisualC#\Guts-DotNetEssentials\Chapter5\Exercise14\obj\Debug\Exercise14_MarkupCompile.lref
+C:\Users\11800460\Desktop\VisualC#\Guts-DotNetEssentials\Chapter5\Exercise14\obj\Debug\MainWindow.baml
+C:\Users\11800460\Desktop\VisualC#\Guts-DotNetEssentials\Chapter5\Exercise14\obj\Debug\Exercise14.g.resources
+C:\Users\11800460\Desktop\VisualC#\Guts-DotNetEssentials\Chapter5\Exercise14\obj\Debug\Exercise14.Properties.Resources.resources
+C:\Users\11800460\Desktop\VisualC#\Guts-DotNetEssentials\Chapter5\Exercise14\obj\Debug\Exercise14.csproj.GenerateResource.cache
+C:\Users\11800460\Desktop\VisualC#\Guts-DotNetEssentials\Chapter5\Exercise14\obj\Debug\Exercise14.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\VisualC#\Guts-DotNetEssentials\Chapter5\Exercise14\obj\Debug\Exercise14.exe
+C:\Users\11800460\Desktop\VisualC#\Guts-DotNetEssentials\Chapter5\Exercise14\obj\Debug\Exercise14.pdb

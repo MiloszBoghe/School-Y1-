@@ -1,0 +1,10 @@
+﻿<Window x:Class="Pie_Size.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="68,52,0,0"
+                Name="button1" Click="button1_Click" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>

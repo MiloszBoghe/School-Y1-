@@ -1,0 +1,27 @@
+﻿<Window x:Class="ListBoxButtonsOefening.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ListBoxButtonsOefening"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="486.4" Width="500">
+    <Grid Margin="0,0,2,-4" HorizontalAlignment="Right" Width="490">
+        <ListBox Name="itemListBox" HorizontalAlignment="Left" Height="342" VerticalAlignment="Top" Width="130" Margin="17,10,0,0">
+
+        </ListBox>
+        <Button Name="loadButton" Content="Load" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="167,10,0,0" Click="Button_Click"/>
+        <Button Name="addButton" Content="Add" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="167,46,0,0" Click="Button_Click"/>
+        <Button Name="clearButton" Content="Clear" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="167,86,0,0" Click="Button_Click"/>
+        <Button Name="containsButton" Content="Contains" VerticalAlignment="Top" Margin="167,126,248,0" Click="Button_Click"/>
+        <Button Name="indexOfButton" Content="IndexOf" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="167,166,0,0" Click="Button_Click"/>
+        <Button Name="lastIndexOfButton" Content="LastIndexOf" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="167,206,0,0" Click="Button_Click"/>
+        <Button Name="removeButton" Content="Remove" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="167,246,0,0" Click="Button_Click"/>
+        <Button Name="removeAButton" Content="RemoveAt" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="167,286,0,0" Click="Button_Click"/>
+        <Button Name="insertButton" Content="Insert" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="167,329,0,0" Click="Button_Click"/>
+        <Button Name="sortButton" Content="Sort" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="167,371,0,0" Click="Button_Click"/>
+        <Button Name="retrieveButton" Content="Retrieve" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="167,413,0,0" Click="Button_Click"/>
+        <Button Name="countButton" Content="Count" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="52,371,0,0" Click="Button_Click"/>
+        <Button Name="item2Button" Content="Item2" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="52,413,0,0" Click="Button_Click"/>
+    </Grid>
+</Window>

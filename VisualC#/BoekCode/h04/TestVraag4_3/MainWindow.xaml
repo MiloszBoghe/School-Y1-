@@ -1,0 +1,11 @@
+﻿<Window x:Class="TestVraag4_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Testvraag 4.3" Height="150" Width="300">
+    <Grid>
+        <Button Name="doitButton" Click="doitButton_Click"
+                Content="Do it" HorizontalAlignment="Left" Margin="40,45,0,0"
+                VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>

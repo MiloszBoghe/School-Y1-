@@ -1,0 +1,14 @@
+C:\Users\11800460\Desktop\VisualC#\Huis\bin\Debug\Huis.exe.config
+C:\Users\11800460\Desktop\VisualC#\Huis\bin\Debug\Huis.exe
+C:\Users\11800460\Desktop\VisualC#\Huis\bin\Debug\Huis.pdb
+C:\Users\11800460\Desktop\VisualC#\Huis\obj\Debug\MainWindow.g.cs
+C:\Users\11800460\Desktop\VisualC#\Huis\obj\Debug\App.g.cs
+C:\Users\11800460\Desktop\VisualC#\Huis\obj\Debug\Huis_MarkupCompile.cache
+C:\Users\11800460\Desktop\VisualC#\Huis\obj\Debug\Huis_MarkupCompile.lref
+C:\Users\11800460\Desktop\VisualC#\Huis\obj\Debug\MainWindow.baml
+C:\Users\11800460\Desktop\VisualC#\Huis\obj\Debug\Huis.g.resources
+C:\Users\11800460\Desktop\VisualC#\Huis\obj\Debug\Huis.Properties.Resources.resources
+C:\Users\11800460\Desktop\VisualC#\Huis\obj\Debug\Huis.csproj.GenerateResource.cache
+C:\Users\11800460\Desktop\VisualC#\Huis\obj\Debug\Huis.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\VisualC#\Huis\obj\Debug\Huis.exe
+C:\Users\11800460\Desktop\VisualC#\Huis\obj\Debug\Huis.pdb

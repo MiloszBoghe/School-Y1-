@@ -1,0 +1,15 @@
+C:\Users\11800460\Desktop\VisualC#\selfTestFileStuff\bin\Debug\selfTestFileStuff.exe.config
+C:\Users\11800460\Desktop\VisualC#\selfTestFileStuff\bin\Debug\selfTestFileStuff.exe
+C:\Users\11800460\Desktop\VisualC#\selfTestFileStuff\bin\Debug\selfTestFileStuff.pdb
+C:\Users\11800460\Desktop\VisualC#\selfTestFileStuff\obj\Debug\selfTestFileStuff.csprojAssemblyReference.cache
+C:\Users\11800460\Desktop\VisualC#\selfTestFileStuff\obj\Debug\MainWindow.g.cs
+C:\Users\11800460\Desktop\VisualC#\selfTestFileStuff\obj\Debug\App.g.cs
+C:\Users\11800460\Desktop\VisualC#\selfTestFileStuff\obj\Debug\selfTestFileStuff_MarkupCompile.cache
+C:\Users\11800460\Desktop\VisualC#\selfTestFileStuff\obj\Debug\selfTestFileStuff_MarkupCompile.lref
+C:\Users\11800460\Desktop\VisualC#\selfTestFileStuff\obj\Debug\MainWindow.baml
+C:\Users\11800460\Desktop\VisualC#\selfTestFileStuff\obj\Debug\selfTestFileStuff.g.resources
+C:\Users\11800460\Desktop\VisualC#\selfTestFileStuff\obj\Debug\selfTestFileStuff.Properties.Resources.resources
+C:\Users\11800460\Desktop\VisualC#\selfTestFileStuff\obj\Debug\selfTestFileStuff.csproj.GenerateResource.cache
+C:\Users\11800460\Desktop\VisualC#\selfTestFileStuff\obj\Debug\selfTestFileStuff.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\VisualC#\selfTestFileStuff\obj\Debug\selfTestFileStuff.exe
+C:\Users\11800460\Desktop\VisualC#\selfTestFileStuff\obj\Debug\selfTestFileStuff.pdb

@@ -1,0 +1,13 @@
+﻿<Window x:Class="CyberspaceInvader.Game"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Cyberspace Invader" Height="350" Width="525">
+    <Grid>
+        <Canvas HorizontalAlignment="Left" Height="300" Margin="10,10,0,0"
+                VerticalAlignment="Top" Width="498"
+                Name="gameCanvas"
+                MouseMove="gameCanvas_MouseMove"
+                MouseUp="gameCanvas_MouseUp"
+                Background="White"/>
+    </Grid>
+</Window>

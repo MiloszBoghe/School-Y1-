@@ -1,0 +1,17 @@
+﻿<Window x:Class="MeerdereCatch.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Meerdere catch" Height="191.194" Width="286.194">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="30,30,0,0"
+                   Text="Enter bottom:" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="113,29,0,0"
+                 Name="bottomTextBox" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Calculate" HorizontalAlignment="Left" Margin="158,90,0,0"
+                VerticalAlignment="Top" Width="75" 
+                Name="calculateButton" Click="calculateButton_Click"/>
+        <Label Content="" HorizontalAlignment="Left" Margin="30,120,0,0"
+               VerticalAlignment="Top" 
+               Name="statusLabel"/>
+    </Grid>
+</Window>

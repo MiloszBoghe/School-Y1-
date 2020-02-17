@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MM19 - Lobby</title>
+    <link rel="stylesheet" href="CSS/global.css">
+    <!--Bootstrap Links-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script>if (typeof module === 'object') {window.module = module; module = undefined;}</script>
+    <!-- normal script imports etc  -->
+    <script src="JS/jquery-3.4.1.min.js"></script>
+    <script>if (window.module) module = window.module;</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+            integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+            crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+            integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+            crossorigin="anonymous"></script>
+    <script src="JS/jquery-3.4.1.min.js"></script>
+    <script src="JS/Lobby.js"></script>
+</head>
+<body class="lobby">
+<nav class="navbar-main">
+    <a href="#" class="navbar-logo "><img
+            src="https://cdn.discordapp.com/attachments/580389867553423381/581112638402986003/WBCEQgAhGIQAQiEIHLBBKTl9F1YQQiEIEIRCACEYhAYrIEIEIRCACEYhABCJwmUBi8jK6LoxABCIQgQhEIAIRSEzWByIQgQhEIAI.png"
+            alt=""></a>
+    <ul>
+        <li class="hvr-pulse-shrink hvr-underline-from-center"><a href="LobbyList.html">Lobbies</a></li>
+        <li class="hvr-pulse-shrink hvr-underline-from-center"><a href="Spelregels.html">Spelregels</a></li>
+        <li class="hvr-pulse-shrink hvr-underline-from-center"><a href="index.html">Logout</a></li>
+    </ul>
+</nav>
+<section id="lobby" class="wrapper lobby-color">
+    <h1 class="title-text"><span class="lijn">Lobby:</span></h1>
+    <article id="createLobbySettings" class="gamesettings">
+        <!--<div class="card border-dark mb-3">
+            <div class="card-header">GameName</div>
+            <div class="card-body text-dark">
+                <h5 class="card-title">Gamemode</h5>
+                <h5 class="card-title">aantal kleuren</h5>
+                <h5 class="card-title">aantal kaka</h5>
+                <h5 class="card-title">aantal pipi</h5>
+                <h5 class="card-title">Gamemode</h5>
+                <h5 class="card-title">Gamemode</h5>
+                <button type="button" onclick="window.location.href = 'LobbyList.html';" class="btn btn-dark">Leave</button>
+            </div>
+        </div>-->
+
+    </article>
+    <article id="playerlist" class="playerlist">
+        <!--<div class="card border-dark mb-3">
+            <div class="card-header" id="insult">random insult</div>
+            <div class="card-body text-dark">
+                <h5 class="card-title">PlayerName</h5>
+            </div>
+        </div> -->
+    </article>
+    <article>
+        <div class="card text-left">
+            <div class="card-header">
+                <h4 id="nick"></h4>
+            </div>
+            <div class="card-body scrollbar">
+                <ul id="messagesList" style="list-style: none;"></ul>
+            </div>
+            <div class="card-footer text-muted">
+                <input type="text" id="messageInput" placeholder="       Don't be so toxic!" class="chatbox"
+                       style="width: 85%"/>
+                <input type="button" class="btn btn-primary" id="sendButton" value="Send Message" style="float: right"/>
+            </div>
+            <div class="lobby-spatie">
+            </div>
+            <script src="JS/signalr.js"></script>
+            <script src="JS/chat.js"></script>
+        </div>
+    </article>
+</section>
+<section class="wrapper">
+    <!-- <iframe src="https://player.twitch.tv/?channel=esl_csgo" frameborder="0" allowfullscreen="true" scrolling="no"></iframe><a href="https://www.twitch.tv/esl_csgo?tt_content=text_link&tt_medium=live_embed" style="padding:2px 0px 4px; display:initial; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;"></a>
+     <iframe src="https://www.twitch.tv/embed/esl_csgo/chat" frameborder="0" scrolling="no" class="chat"></iframe>
+    -->
+</section>
+</body>
+</html>

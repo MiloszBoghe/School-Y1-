@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+    <title>vb11</title>
+</head>
+<body>
+<p>Name: <input type="text" data-help="Your full name"></p>
+<p>Age: <input type="text" data-help="Your age in years"></p>
+<p id="help"></p>
+<script>
+    let help = document.querySelector("#help");
+    let fields = document.querySelectorAll("input");
+    for (let field of Array.from(fields)) {
+        field.addEventListener("focus", event => {
+            let text = event.target.getAttribute("data-help");
+            help.textContent = text;
+        });
+        field.addEventListener("blur", event => {
+            help.textContent = "";
+        });
+    }
+</script>
+</body>
+</html>
+

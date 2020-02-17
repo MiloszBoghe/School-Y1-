@@ -1,0 +1,15 @@
+C:\Users\11800460\Desktop\VisualC#\alarmClock\bin\Debug\alarmClock.exe.config
+C:\Users\11800460\Desktop\VisualC#\alarmClock\bin\Debug\alarmClock.exe
+C:\Users\11800460\Desktop\VisualC#\alarmClock\bin\Debug\alarmClock.pdb
+C:\Users\11800460\Desktop\VisualC#\alarmClock\obj\Debug\alarmClock.csprojAssemblyReference.cache
+C:\Users\11800460\Desktop\VisualC#\alarmClock\obj\Debug\MainWindow.g.cs
+C:\Users\11800460\Desktop\VisualC#\alarmClock\obj\Debug\App.g.cs
+C:\Users\11800460\Desktop\VisualC#\alarmClock\obj\Debug\alarmClock_MarkupCompile.cache
+C:\Users\11800460\Desktop\VisualC#\alarmClock\obj\Debug\alarmClock_MarkupCompile.lref
+C:\Users\11800460\Desktop\VisualC#\alarmClock\obj\Debug\MainWindow.baml
+C:\Users\11800460\Desktop\VisualC#\alarmClock\obj\Debug\alarmClock.g.resources
+C:\Users\11800460\Desktop\VisualC#\alarmClock\obj\Debug\alarmClock.Properties.Resources.resources
+C:\Users\11800460\Desktop\VisualC#\alarmClock\obj\Debug\alarmClock.csproj.GenerateResource.cache
+C:\Users\11800460\Desktop\VisualC#\alarmClock\obj\Debug\alarmClock.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\VisualC#\alarmClock\obj\Debug\alarmClock.exe
+C:\Users\11800460\Desktop\VisualC#\alarmClock\obj\Debug\alarmClock.pdb

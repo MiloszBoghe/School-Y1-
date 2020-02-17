@@ -1,0 +1,7 @@
+C:\Users\11800460\Desktop\VisualC#\H19\demoArg2\obj\Debug\demoArg2.csprojAssemblyReference.cache
+C:\Users\11800460\Desktop\VisualC#\H19\demoArg2\obj\Debug\demoArg2.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\VisualC#\H19\demoArg2\bin\Debug\demoArg2.exe.config
+C:\Users\11800460\Desktop\VisualC#\H19\demoArg2\bin\Debug\demoArg2.exe
+C:\Users\11800460\Desktop\VisualC#\H19\demoArg2\bin\Debug\demoArg2.pdb
+C:\Users\11800460\Desktop\VisualC#\H19\demoArg2\obj\Debug\demoArg2.exe
+C:\Users\11800460\Desktop\VisualC#\H19\demoArg2\obj\Debug\demoArg2.pdb

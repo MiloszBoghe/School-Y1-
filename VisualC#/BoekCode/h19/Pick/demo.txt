@@ -1,0 +1,4 @@
+﻿Deze regels zijn
+een test voor het Pick programma.
+Dit zoekt en toont de regels
+die een bepaalde substring bevatten.

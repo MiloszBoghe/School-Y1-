@@ -1,0 +1,25 @@
+﻿<Window x:Class="Oef14._21_23.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oef14._21_23"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Vaknaam:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="196,127,0,0" Height="29" Width="65">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.083"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <TextBox HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="308" Margin="261,130,0,0" />
+        <Button Content="Zoek" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="599,130,0,0"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="195,177,0,0" Height="147" Width="479"/>
+
+    </Grid>
+</Window>

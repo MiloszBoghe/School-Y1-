@@ -1,0 +1,14 @@
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h08\Boxes\bin\Debug\Boxes.exe.config
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h08\Boxes\bin\Debug\Boxes.exe
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h08\Boxes\bin\Debug\Boxes.pdb
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h08\Boxes\obj\Debug\Boxes.csprojAssemblyReference.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h08\Boxes\obj\Debug\MainWindow.baml
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h08\Boxes\obj\Debug\MainWindow.g.cs
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h08\Boxes\obj\Debug\App.g.cs
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h08\Boxes\obj\Debug\Boxes_MarkupCompile.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h08\Boxes\obj\Debug\Boxes.g.resources
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h08\Boxes\obj\Debug\Boxes.Properties.Resources.resources
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h08\Boxes\obj\Debug\Boxes.csproj.GenerateResource.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h08\Boxes\obj\Debug\Boxes.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h08\Boxes\obj\Debug\Boxes.exe
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h08\Boxes\obj\Debug\Boxes.pdb

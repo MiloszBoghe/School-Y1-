@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MM19 - LobbyList</title>
+    <!--Bootstrap Links-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="CSS/global.css">
+    <!-- Insert this line above script imports  -->
+    <script>if (typeof module === 'object') {window.module = module; module = undefined;}</script>
+    <!-- normal script imports etc  -->
+    <script src="JS/jquery-3.4.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <!-- Insert this line after script imports -->
+    <script>if (window.module) module = window.module;</script>
+    <script src="JS/LobbyList.js"></script>
+</head>
+<body class="lobby">
+<nav class="navbar-main">
+    <a href="#" class="navbar-logo "><img src="https://cdn.discordapp.com/attachments/580389867553423381/581112638402986003/WBCEQgAhGIQAQiEIHLBBKTl9F1YQQiEIEIRCACEYhAYrIEIEIRCACEYhABCJwmUBi8jK6LoxABCIQgQhEIAIRSEzWByIQgQhEIAI.png" alt=""></a>
+    <ul>
+        <li class="hvr-pulse-shrink hvr-underline-from-center"><a href="LobbyList.html">Lobbies</a></li>
+        <li class="hvr-pulse-shrink hvr-underline-from-center"><a href="Spelregels.html">Spelregels</a></li>
+        <li id="logout" class="hvr-pulse-shrink hvr-underline-from-center"><a href="index.html">Logout</a></li>
+    </ul>
+</nav>
+<section id="background">
+<section id="lobby" class="wrapper lobby-color">
+    <h1 class="title-text"><span class="lijn">Global chat:</span></h1>
+    <div class="card text-left">
+        <div class="card-header">
+            <h4 id="nick"></h4>
+        </div>
+        <div class="card-body scrollbar">
+            <ul id="messagesList" style="list-style: none;"></ul>
+        </div>
+        <div class="card-footer text-muted">
+            <input type="text" id="messageInput" placeholder="       Don't be so toxic!" class="chatbox"/>
+            <input type="button" class ="btn btn-primary" id="sendButton" value="Send Message" />
+            <article class="create-lobby-section" style="float: right">
+                <!---<button id="createLobby" type="button" class="btn btn-primary purple-gradient button-style-one" data-toggle="modal" data-target="#exampleModal">Create game</button>-->
+                <button id="createLobby" type="button" class="btn btn-primary purple-gradient" data-toggle="modal" data-target="#exampleModal">Create game</button>
+            </article>
+        </div>
+        <div class="lobby-spatie">
+        </div>
+        <script src="JS/signalr.js"></script>
+        <script src="JS/chat.js"></script>
+    </div>
+    <h1 class="title-text"><span class="lijn">LobbyList:</span></h1>
+    <div id="demo"></div>
+</section>
+<!--Bootstrap ModalSection-->
+<section>
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Lobby settings</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="form-group">
+                        <label>Game naam</label>
+                        <input id="gameNaam" type="text" class="form-control"  placeholder="ComePlayWithMe">
+                    </div>
+                    <div class="form-group">
+                        <label>Game mode</label>
+                        <select id="gameMode" class="form-control">
+                            <option>Normaal</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>Lengte Code</label>
+                        <select id="lengteCode" class="form-control">
+                            <option>4</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>Aantal kleuren</label>
+                        <select id="aantalKleuren" class="form-control">
+                            <option>8</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>Zelfde kleur meerdere keren gebruiken</label>
+                        <select id="herhalendeKleur" class="form-control">
+                            <option>Nee</option>
+                            <option>Ja</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>Aantal gokken</label>
+                        <select id="aantalGokken" class="form-control">
+                            <option>10</option>
+                            <option>4</option>
+                            <option>6</option>
+                            <option>8</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>Aantal spellen</label>
+                        <select id="aantalGames" class="form-control">
+                            <option>1</option>
+                        </select>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button id="CreateButton" type="button" class="btn btn-primary">Create lobby</button>
+            </div>
+        </div>
+    </div>
+</div>
+</section>
+<section class="wrapper">
+    <iframe
+            src="https://www.youtube.com/embed/dMHxyulGrEk">
+    </iframe>
+</section>
+</section>
+<!--<section class="wrapper">
+    <iframe
+            src="https://player.twitch.tv/?channel=esl_csgo&muted=true"
+            height="720"
+            width="1280"
+            frameborder="0"
+            scrolling="no"
+            allowfullscreen="true">
+    </iframe>
+</section>-->
+<!--<section class="wrapper">
+    <iframe src="https://player.twitch.tv/?channel=esl_csgo" frameborder="0" allowfullscreen="true" scrolling="no"></iframe><a href="https://www.twitch.tv/esl_csgo?tt_content=text_link&tt_medium=live_embed" style="padding:2px 0px 4px; display:initial; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;"></a>
+    <iframe src="https://www.twitch.tv/embed/esl_csgo/chat" frameborder="0" scrolling="no" class="chat"></iframe>
+</section>-->
+</body>
+</html>

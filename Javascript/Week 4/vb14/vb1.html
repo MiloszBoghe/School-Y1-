@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+    <title>My home page</title>
+</head>
+<body>
+<h1>My home page</h1>
+<p>I also wrote a book! Read it</p>
+<script>
+    function talksAbout(node, string) {
+        if (node.nodeType == document.ELEMENT_NODE) {
+            for (let i = 0; i < node.childNodes.length; i++) {
+                if (talksAbout(node.childNodes[i], string)) {
+                    return true;
+                }
+            }
+            return false;
+        } else if (node.nodeType == document.TEXT_NODE) {
+            return node.nodeValue.indexOf(string) > -1;
+        }
+    }
+
+    console.log(talksAbout(document.body, "book"));
+</script>
+</body>
+</html>
+

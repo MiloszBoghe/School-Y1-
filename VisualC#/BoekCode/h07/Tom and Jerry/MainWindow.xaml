@@ -1,0 +1,26 @@
+﻿<Window x:Class="Tom_and_Jerry.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Tom and Jerry" Height="235.6" Width="400">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="23,26,0,0"
+                   Text="Tom:" VerticalAlignment="Top"/>
+        <Slider HorizontalAlignment="Left" Margin="23,47,0,0"
+                VerticalAlignment="Top" Width="150"
+                Name="tomSlider"
+                Minimum="0" Maximum="100"/>
+        <TextBlock HorizontalAlignment="Left" Margin="23,124,0,0"
+                   Text="Jerry:" VerticalAlignment="Top"/>
+        <Slider HorizontalAlignment="Left" Margin="23,145,0,0"
+                VerticalAlignment="Top" Width="150"
+                Name="jerrySlider"
+                Minimum="0" Maximum="100"/>
+        <Canvas HorizontalAlignment="Left" Height="137"
+                Margin="178,26,0,0" VerticalAlignment="Top" Width="200"
+                Background="LightGray"
+                Name="paperCanvas"/>
+        <Label HorizontalAlignment="Left"
+               Margin="178,170,0,0" VerticalAlignment="Top"
+               Name="messageLabel"/>
+    </Grid>
+</Window>

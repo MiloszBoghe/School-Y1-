@@ -1,0 +1,19 @@
+﻿<Window x:Class="Guesser.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Guesser" Height="165" Width="337">
+    <Grid>
+        <Button Content="Correct" HorizontalAlignment="Left"
+                Margin="36,87,0,0" VerticalAlignment="Top" Width="75"
+                Name="enterButton" Click="correctButton_Click"/>
+        <Button Content="Wrong" HorizontalAlignment="Left"
+                Margin="214,87,0,0" VerticalAlignment="Top" Width="75"
+                Name="leaveButton" Click="wrongButton_Click"/>
+        <Label Content="guessLabel" HorizontalAlignment="Left"
+               Margin="147,49,0,0" VerticalAlignment="Top"
+               Name="guessLabel" />
+        <TextBlock HorizontalAlignment="Left" Margin="36,17,0,0"
+                   Text="Computer guesses that your age is:"
+                   VerticalAlignment="Top" />
+    </Grid>
+</Window>

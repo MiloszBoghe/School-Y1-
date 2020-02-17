@@ -1,0 +1,16 @@
+﻿<Window x:Class="Exercise03.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Exercise03"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="325" Width="305">
+    <Grid>
+        <Button x:Name="nextButton" Content="Volgend Getal" HorizontalAlignment="Left" VerticalAlignment="Top" Width="98" Margin="90,72,0,0" Click="NextButton_Click"/>
+        <TextBox x:Name="averageTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="90,153,0,0" IsEnabled="False"/>
+        <TextBox x:Name="sumTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="90,125,0,0" IsEnabled="False"/>
+        <TextBox x:Name="randomTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="90,97,0,0" IsEnabled="False"/>
+
+    </Grid>
+</Window>

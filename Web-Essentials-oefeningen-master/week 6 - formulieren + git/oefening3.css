@@ -1,0 +1,15 @@
+body {
+    background-image: url("assets/cookies.jpg");
+    background-repeat: no-repeat;
+}
+button {
+    width: 300px;
+}
+input.password {
+    width: 300px;
+}
+p.border {
+    border: 1px solid black;
+    width: 300px;
+    height: 40px;
+}

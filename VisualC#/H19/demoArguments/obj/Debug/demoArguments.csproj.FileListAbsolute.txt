@@ -1,0 +1,7 @@
+C:\Users\11800460\Desktop\VisualC#\H19\demoArguments\bin\Debug\demoArguments.exe.config
+C:\Users\11800460\Desktop\VisualC#\H19\demoArguments\bin\Debug\demoArguments.exe
+C:\Users\11800460\Desktop\VisualC#\H19\demoArguments\bin\Debug\demoArguments.pdb
+C:\Users\11800460\Desktop\VisualC#\H19\demoArguments\obj\Debug\demoArguments.csprojAssemblyReference.cache
+C:\Users\11800460\Desktop\VisualC#\H19\demoArguments\obj\Debug\demoArguments.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\VisualC#\H19\demoArguments\obj\Debug\demoArguments.exe
+C:\Users\11800460\Desktop\VisualC#\H19\demoArguments\obj\Debug\demoArguments.pdb

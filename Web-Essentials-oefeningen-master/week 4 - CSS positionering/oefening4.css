@@ -1,0 +1,25 @@
+body {
+    background-color: darkred;
+    color: white;
+    margin: 0;
+}
+ul {
+    height: 50px;
+    background-color: orangered;
+    padding: 0;
+}
+li {
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    margin: 0 15px;
+    vertical-align: middle;
+}
+ul img {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    padding: 5px;
+}
+
+

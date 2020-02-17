@@ -1,0 +1,16 @@
+3,Club Brugge KV,Brugge
+7,KAA Gent,Gent
+12,Cercle Brugge,Brugge
+16,R.Standard de Liège,Luik
+19,KV Kortrijk,Kortrijk
+22,R.Sporting du Pays de Charleroi,Charleroi
+25,YR KV Mechelen,Mechelen
+30,K.Lierse SK,Lier
+35,RSC Anderlecht,Anderlecht
+44,RAEC Mons,Bergen
+282,KSC Lokeren OV,Lokeren
+322,KRC Genk,Genk
+3530,K.Beerschot AC,Antwerpen
+4068,KVRS Waasland - SK Beveren,Beveren
+5381,SV Zulte Waregem,Waregem
+6142,Oud-Heverlee Leuven,Leuven

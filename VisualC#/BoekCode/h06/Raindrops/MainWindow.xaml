@@ -1,0 +1,33 @@
+﻿<Window x:Name="window2" x:Class="Raindrops.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Raindrops" Height="1000" Width="1920">
+    <Grid x:Name="window1">
+        <Button Content="Start" HorizontalAlignment="Left"
+                Margin="23,23,0,0" VerticalAlignment="Top"
+                Width="100" Name="startButton"
+                Click="startButton_Click"/>
+        <Button Content="Stop" HorizontalAlignment="Left"
+                Margin="23,54,0,0" VerticalAlignment="Top"
+                Width="100" Name="stopButton"
+                Click="stopButton_Click"/>
+        <Button Content="Clear" HorizontalAlignment="Left"
+                Margin="23,86,0,0" VerticalAlignment="Top"
+                Width="100" Name="clearButton"
+                Click="clearButton_Click"/>
+        <Canvas HorizontalAlignment="Left"
+                Height="275" Margin="138,23,0,0" VerticalAlignment="Top"
+                Width="370" Background="LightGray"
+                Name="paperCanvas" ClipToBounds="False"/>
+        
+        <Label Content="xxx" HorizontalAlignment="Left"
+               Margin="23,280,0,0" VerticalAlignment="Top"
+               Name="gapLabel"/>
+        <TextBlock HorizontalAlignment="Left" Margin="55,285,0,0"
+                   Text="ms gap" VerticalAlignment="Top"/>
+        <Slider HorizontalAlignment="Left" Margin="23,243,0,0"
+                VerticalAlignment="Top" Width="100"
+                Name="gapSlider" Minimum="1" Maximum="2000"
+                ValueChanged="gapSlider_ValueChanged"/>
+    </Grid>
+</Window>

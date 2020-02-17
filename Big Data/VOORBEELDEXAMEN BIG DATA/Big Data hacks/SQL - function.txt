@@ -1,0 +1,52 @@
+PL/SQL FUNCTION
+
+
+function syntax
+_________________________________________
+
+CREATE OR REPLACE FUNCTION fuction_name
+    [(parameter1 [mode1] datatype1, ...)]
+RETURN datatype IS|AS
+    [local_variable_declarations; ...]
+BEGIN
+    --actions;
+    RETURN expression;
+END [function_name];
+/
+
+
+
+
+
+
+function template
+_________________________________________
+
+CREATE OR REPLACE FUNCTION
+(p_ IN )
+RETURN 
+AS
+	
+BEGIN
+
+END;
+/
+
+
+
+
+
+function example
+_________________________________________
+
+
+CREATE OR REPLACE FUNCTION aantal_dienstjaren
+(p_hire_date employees.hire_date%TYPE)
+RETURN NUMBER
+AS
+v_dienstjaren NUMBER(2);
+BEGIN
+v_dienstjaren := trunc(months_between(sysdate, p_hire_date) /12);
+RETURN v_dienstjaren;
+END;
+/

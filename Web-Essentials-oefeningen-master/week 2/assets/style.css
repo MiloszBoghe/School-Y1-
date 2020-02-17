@@ -1,0 +1,17 @@
+body {
+    font-family: Verdana;
+}
+img {
+    width: 500px;
+    height: 500px;
+}
+iframe {
+    width: 800px;
+    height: 500px;
+}
+a:hover {
+    font-size: 1.2em;
+}
+.nav {
+    list-style-type: none;
+}

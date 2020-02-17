@@ -1,0 +1,161 @@
+Oefeningen Big Data: query MongoDB
+
+Bestudeer eerst de collectie movieDetails in de database video. 
+PROJECTIE
+
+
+
+
+Opgave 1 
+Schrijf  een  query  die  enkel  de  titel  en  de  datum  dat  de  film  werd  uitgebracht  (released)  toont. 
+Opmerking: de _id wordt niet getoond.
+
+db.movieDetails.find({},{_id:0,title:1,released:1})
+
+
+
+Opgave 2 
+Schrijf een query die enkel de titel,  de landen waar de film werd gemaakt en de director toont.
+Is het mogelijk om de director te tonen vlak na de titel? SORT-LIMIT-SKIP-COUNT
+
+NEEEEEEEEEE
+
+
+
+Opgave 3 
+Schrijf een query die de titel en de genres toont, alfabetisch gesorteerd volgens genre.
+Wat valt er op bij de eerste 82 films?
+
+db.moviedetails.find({},{_id:0,genres:1,title:1,released:1}).sort({genres:1}).limit(83)
+genre is leeg
+
+
+
+Opgave 4 
+Dezelfde opgave als 3, maar sla de eerste 82 films over en toon vervolgens 15 films. Welke film staat eerst?
+
+db.movieDetails.find({},{_id:0,genres:1,title:1,released:1}).sort({genres:1}).skip(82)
+Wild Wild West staat eerst
+
+
+
+Opgave 5
+Hoeveel films worden in detail besproken?
+
+db.movieDetails.find({}).count()
+2295 films
+
+
+
+Opgave 6
+Welke film staat op de 101ste plaats? Geef hiervan enkel de titel en de acteurs weer.
+
+db.movieDetails.find({},{title:1,actors:1}).skip(100).limit(1)
+
+
+
+Opgave 7
+Geef de titel van de 100ste oudste film.
+SELECTIE Ga naar de collectie movies. 
+
+db.movies.find({},{title:1,year:1, _id:0}).sort({year:1}).skip(99).limit(1)
+title: "Florida to Louisiana with H.T. Tinklebottom", year: 1917 
+
+
+
+Opgave 8
+Hoeveel films zijn van het jaar 1982? 
+
+db.movies.find({year:1982}).count()
+22
+
+
+
+Opgave 9
+Geef enkel de titel en het jaartal van de films van het jaar 1982. Ga naar de collectie movieDetails. 
+
+db.movieDetails.find({year:1982},{title:1, year:1, _id:0})
+
+
+
+Opgave 10 
+Geef enkel de titel weer van de films waar Stanley Kubrick director van is.
+
+db.movieDetails.find({director:'Stanley Kubrick'},{title:1, _id:0})
+
+
+
+Opgave 11 
+Bij hoeveel films staat er UNRATED bij het veld rated? 
+
+db.movieDetails.find({rated:"UNRATED"}).count()
+32
+
+
+
+Opgave 12 
+Hoeveel films zijn er waarbij de acteur Jeff Bennett meespeelt?
+
+db.movieDetails.find({actors:"Jeff Bennett"}).count()
+1
+
+
+
+Opgave 13 
+Van welke films is George Lucas de director? Geef de films alfabetisch op titel weer.
+
+db.movieDetails.find({director:"George Lucas"},{title:1,_id:0})
+
+
+
+Opgave 14 
+Hoeveel films duren langer dan 2 uur?
+
+db.movieDetails.find({runtime:{$gte:120}}).count()
+
+
+
+Opgave 15 
+Geef enkel de titel weer van de films waarbij acteurs met voornaam Gary in meespelen. Geef de films alfabetisch gesorteerd weer.
+
+db.movieDetails.find({actors:{$regex:"^Gary *"}},{title:1,_id:0}).sort({title:1})
+db.movieDetails.find({actors:/^Gary /i},{title:1,_id:0}).sort({title:1})
+
+
+
+Opgave 16 
+Hoeveel films zijn van het jaar 2000 of 2010?
+
+db.movieDetails.find({$or:[{year:2000},{year:2010}]}).count()
+160
+
+
+Opgave 17 
+Geef enkel de titel en het jaartal weer van de films van de jaren gelegen tussen 2014 en 2017(inclusief), 
+gesorteerd volgens ouderdom. Welke film staat eerst?
+
+ db.movieDetails.find({$and:[{year:{$gte:2014}},{year:{$lte:2017}}]},{title:1,year:1,_id:0}).sort({year:1})
+
+
+
+Opgave 18 
+Hoeveel films zijn er van Star wars?
+
+
+
+
+
+Opgave 19
+Welke films zijn zowel in UK als USA uitgebracht en zijn ofwel van het jaar 2004 ofwel van 2012? Toon enkel titel, jaar  en countries in aflopende volgorde van het jaar en daarin oplopende volgorde van de titel.  
+
+
+Opgave 20
+Toon alle films die het woord west in de titel hebben en zijn uitgebracht in New Zealand en alle films waarin Bruce Willis meespeelt.
+
+
+Opgave 21 
+Toon alle films die niet zijn uitgebracht in USA of UK maar wel in België of Frankrijk. Toon enkel het id, de titel, de producer , de landen van uitgifte en de acteurs van de 51ste film die aan de voorwaarden voldoet.
+
+
+Opgave 22
+Zie opgave 21 maar pas de find aan om zowel de films die in België als in Frankrijk zijn uitgebracht te tonen. En toon ze allemaal.

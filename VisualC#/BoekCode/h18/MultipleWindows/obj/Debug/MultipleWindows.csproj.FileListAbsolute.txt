@@ -1,0 +1,15 @@
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h18\MultipleWindows\bin\Debug\MultipleWindows.exe.config
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h18\MultipleWindows\bin\Debug\MultipleWindows.exe
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h18\MultipleWindows\bin\Debug\MultipleWindows.pdb
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h18\MultipleWindows\obj\Debug\DetailsWindow.baml
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h18\MultipleWindows\obj\Debug\MainWindow.baml
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h18\MultipleWindows\obj\Debug\DetailsWindow.g.cs
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h18\MultipleWindows\obj\Debug\MainWindow.g.cs
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h18\MultipleWindows\obj\Debug\App.g.cs
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h18\MultipleWindows\obj\Debug\MultipleWindows_MarkupCompile.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h18\MultipleWindows\obj\Debug\MultipleWindows.g.resources
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h18\MultipleWindows\obj\Debug\MultipleWindows.Properties.Resources.resources
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h18\MultipleWindows\obj\Debug\MultipleWindows.csproj.GenerateResource.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h18\MultipleWindows\obj\Debug\MultipleWindows.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h18\MultipleWindows\obj\Debug\MultipleWindows.exe
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h18\MultipleWindows\obj\Debug\MultipleWindows.pdb

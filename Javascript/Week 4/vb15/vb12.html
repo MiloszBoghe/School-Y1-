@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+    <title>Events</title>
+</head>
+<body>
+<button>click</button>
+<script>
+    const handleLoad = () => {
+        let button = document.querySelector("button");
+        button.addEventListener("click", handleClick);
+    }
+
+    const handleClick = (event) => {
+        console.log(event.target.textContent);
+    }
+
+    window.addEventListener("load", handleLoad);
+</script>
+</body>
+</html>

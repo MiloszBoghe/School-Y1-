@@ -1,0 +1,14 @@
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h18\DirectoryDemo\bin\Debug\DirectoryDemo.exe.config
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h18\DirectoryDemo\bin\Debug\DirectoryDemo.exe
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h18\DirectoryDemo\bin\Debug\DirectoryDemo.pdb
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h18\DirectoryDemo\obj\Debug\DirectoryDemo.csprojAssemblyReference.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h18\DirectoryDemo\obj\Debug\MainWindow.baml
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h18\DirectoryDemo\obj\Debug\MainWindow.g.cs
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h18\DirectoryDemo\obj\Debug\App.g.cs
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h18\DirectoryDemo\obj\Debug\DirectoryDemo_MarkupCompile.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h18\DirectoryDemo\obj\Debug\DirectoryDemo.g.resources
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h18\DirectoryDemo\obj\Debug\DirectoryDemo.Properties.Resources.resources
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h18\DirectoryDemo\obj\Debug\DirectoryDemo.csproj.GenerateResource.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h18\DirectoryDemo\obj\Debug\DirectoryDemo.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h18\DirectoryDemo\obj\Debug\DirectoryDemo.exe
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h18\DirectoryDemo\obj\Debug\DirectoryDemo.pdb

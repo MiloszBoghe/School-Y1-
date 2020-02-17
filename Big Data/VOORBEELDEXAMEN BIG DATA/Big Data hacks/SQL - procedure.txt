@@ -1,0 +1,23 @@
+PL/SQL PROCEDURE
+
+
+
+PROCEDURE syntax
+_____________________________________
+
+CREATE OR REPLACE PROCEDURE procedure_name
+[(parameter1 [mode] datatype1, ...)]
+IS|AS
+    [local_variable_declarations;]
+BEGIN
+    --actions;
+END [procedure_name];
+/
+
+
+
+
+EXTRA
+_____________________________________
+
+DBMS_OUTPUT.PUT_LINE();

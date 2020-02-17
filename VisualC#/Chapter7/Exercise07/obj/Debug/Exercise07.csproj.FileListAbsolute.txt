@@ -1,0 +1,14 @@
+D:\Gebruikers\Gebruiker\Bureaublad\VisualC#\DotNet\Guts-DotNetEssentials\Guts-DotNetEssentials\Guts-DotNetEssentials\Chapter7\Exercise07\bin\Debug\Exercise07.exe.config
+D:\Gebruikers\Gebruiker\Bureaublad\VisualC#\DotNet\Guts-DotNetEssentials\Guts-DotNetEssentials\Guts-DotNetEssentials\Chapter7\Exercise07\bin\Debug\Exercise07.exe
+D:\Gebruikers\Gebruiker\Bureaublad\VisualC#\DotNet\Guts-DotNetEssentials\Guts-DotNetEssentials\Guts-DotNetEssentials\Chapter7\Exercise07\bin\Debug\Exercise07.pdb
+D:\Gebruikers\Gebruiker\Bureaublad\VisualC#\DotNet\Guts-DotNetEssentials\Guts-DotNetEssentials\Guts-DotNetEssentials\Chapter7\Exercise07\obj\Debug\MainWindow.g.cs
+D:\Gebruikers\Gebruiker\Bureaublad\VisualC#\DotNet\Guts-DotNetEssentials\Guts-DotNetEssentials\Guts-DotNetEssentials\Chapter7\Exercise07\obj\Debug\App.g.cs
+D:\Gebruikers\Gebruiker\Bureaublad\VisualC#\DotNet\Guts-DotNetEssentials\Guts-DotNetEssentials\Guts-DotNetEssentials\Chapter7\Exercise07\obj\Debug\Exercise07_MarkupCompile.cache
+D:\Gebruikers\Gebruiker\Bureaublad\VisualC#\DotNet\Guts-DotNetEssentials\Guts-DotNetEssentials\Guts-DotNetEssentials\Chapter7\Exercise07\obj\Debug\Exercise07_MarkupCompile.lref
+D:\Gebruikers\Gebruiker\Bureaublad\VisualC#\DotNet\Guts-DotNetEssentials\Guts-DotNetEssentials\Guts-DotNetEssentials\Chapter7\Exercise07\obj\Debug\MainWindow.baml
+D:\Gebruikers\Gebruiker\Bureaublad\VisualC#\DotNet\Guts-DotNetEssentials\Guts-DotNetEssentials\Guts-DotNetEssentials\Chapter7\Exercise07\obj\Debug\Exercise07.g.resources
+D:\Gebruikers\Gebruiker\Bureaublad\VisualC#\DotNet\Guts-DotNetEssentials\Guts-DotNetEssentials\Guts-DotNetEssentials\Chapter7\Exercise07\obj\Debug\Exercise07.Properties.Resources.resources
+D:\Gebruikers\Gebruiker\Bureaublad\VisualC#\DotNet\Guts-DotNetEssentials\Guts-DotNetEssentials\Guts-DotNetEssentials\Chapter7\Exercise07\obj\Debug\Exercise07.csproj.GenerateResource.cache
+D:\Gebruikers\Gebruiker\Bureaublad\VisualC#\DotNet\Guts-DotNetEssentials\Guts-DotNetEssentials\Guts-DotNetEssentials\Chapter7\Exercise07\obj\Debug\Exercise07.csproj.CoreCompileInputs.cache
+D:\Gebruikers\Gebruiker\Bureaublad\VisualC#\DotNet\Guts-DotNetEssentials\Guts-DotNetEssentials\Guts-DotNetEssentials\Chapter7\Exercise07\obj\Debug\Exercise07.exe
+D:\Gebruikers\Gebruiker\Bureaublad\VisualC#\DotNet\Guts-DotNetEssentials\Guts-DotNetEssentials\Guts-DotNetEssentials\Chapter7\Exercise07\obj\Debug\Exercise07.pdb

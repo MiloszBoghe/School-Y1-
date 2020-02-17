@@ -1,0 +1,6 @@
+MD5
+1) Zip aanmaken
+2) Powershell Openen
+3) Get-FileHash (file/map) -algorithm MD5
+kopieer hash, bv:
+B33990D04FE53C879332649FF4CC7192 

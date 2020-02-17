@@ -1,0 +1,7 @@
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h19\Pick\bin\Debug\Pick.exe.config
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h19\Pick\bin\Debug\Pick.exe
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h19\Pick\bin\Debug\Pick.pdb
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h19\Pick\obj\Debug\Pick.csprojAssemblyReference.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h19\Pick\obj\Debug\Pick.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h19\Pick\obj\Debug\Pick.exe
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h19\Pick\obj\Debug\Pick.pdb

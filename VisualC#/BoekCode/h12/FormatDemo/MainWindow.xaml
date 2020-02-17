@@ -1,0 +1,30 @@
+﻿<Window x:Class="FormatDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Formatteringen" Height="229.403" Width="427.09">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="42,35,0,0"
+                   Text="int getal:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="42,70,0,0"
+                   Text="double getal:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="42,105,0,0"
+                   Text="format string:" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23"
+                 Margin="162,35,0,0" VerticalAlignment="Top" Width="120"
+                 Name="intTextBox"/>
+        <TextBox HorizontalAlignment="Left" Height="23"
+                 Margin="162,70,0,0" VerticalAlignment="Top" Width="120"
+                 Name="doubleTextBox"/>
+        <TextBox HorizontalAlignment="Left" Height="23"
+                 Margin="162,105,0,0" VerticalAlignment="Top" Width="120"
+                 Name="formatTextBox"/>
+        <Button Content="Format" HorizontalAlignment="Left"
+                Margin="311,36,0,0" VerticalAlignment="Top" Width="75"
+                Name="intButton" Click="intButton_Click"/>
+        <Button Content="Format" HorizontalAlignment="Left"
+                Margin="311,71,0,0" VerticalAlignment="Top" Width="75"
+                Name="doubleButton" Click="doubleButton_Click"/>
+        <Label HorizontalAlignment="Left" Margin="162,148,0,0"
+               VerticalAlignment="Top" Name="resultLabel"/>
+    </Grid>
+</Window>

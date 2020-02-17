@@ -1,0 +1,18 @@
+﻿<Window x:Class="TestVraag7_6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Testvraag 7.6" Height="281.753" Width="393.6">
+    <Grid>
+        <Slider HorizontalAlignment="Left" Margin="48,34,0,0"
+                VerticalAlignment="Top" Width="300"
+                Name="slider1"/>
+        <Slider HorizontalAlignment="Left" Margin="48,84,0,0"
+                VerticalAlignment="Top" Width="300"
+                Name="slider2"/>
+        <Slider HorizontalAlignment="Left" Margin="48,138,0,0"
+                VerticalAlignment="Top" Width="300"
+                Name="slider3"/>
+        <Label HorizontalAlignment="Left" Margin="160,193,0,0"
+               VerticalAlignment="Top" Name="messageLabel"/>
+    </Grid>
+</Window>

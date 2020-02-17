@@ -1,0 +1,15 @@
+﻿<Window x:Class="Opgave4._11.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Opgave4._11"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="calculateButton" Content="Calculate" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="92,197,0,0" Click="CalculateButton_Click"/>
+        <TextBox x:Name="intGetal" HorizontalAlignment="Left" Height="70" TextWrapping="Wrap" VerticalAlignment="Top" Width="232" Margin="92,67,0,0"/>
+        <TextBox x:Name="binaryTextbox" HorizontalAlignment="Left" Height="66" TextWrapping="Wrap" VerticalAlignment="Top" Width="232" Margin="92,306,0,0"/>
+
+    </Grid>
+</Window>

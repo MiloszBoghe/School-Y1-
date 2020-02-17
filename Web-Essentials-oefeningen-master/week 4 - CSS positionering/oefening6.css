@@ -1,0 +1,38 @@
+body {
+    color: white;
+    background: red;
+}
+div {
+    box-shadow: 5px 5px 8px black; /*right bottom blur color*/
+    border-radius: 15px;
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+    opacity: 0.5; /*transparantie*/
+}
+.een {
+    position: absolute;
+    background-color: yellow;
+    z-index: 4; /*bepaald welke van de 4 boxen deze is (bovenste)*/
+}
+.twee {
+    position: relative;
+    background-color: blue;
+    z-index: 3; /*bepaald welke van de 4 boxen deze is (tweede)*/
+    top: 30px;
+    left: 30px;
+}
+.drie {
+    position: relative;
+    background-color: red;
+    z-index: 2; /*bepaald welke van de 4 boxen deze is (voorlaatste)*/
+    top: -140px;
+    left: 60px;
+}
+.vier {
+    position: relative;
+    background-color: pink;
+    z-index: 1; /*bepaald welke van de 4 boxen deze is (onderste)*/
+    top: -310px;
+    left: 90px;
+}

@@ -1,0 +1,22 @@
+﻿<Window x:Class="Beetle.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Beetle"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Name="speedLabel" Content="value" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="86,48,0,0"/>
+        <Label Name="sizelabel" Content="value" HorizontalAlignment="Left" Margin="86,93,0,0" VerticalAlignment="Top"/>
+        <Slider Name="speedSlider" Minimum="0.5" Maximum="10" HorizontalAlignment="Left" Margin="168,51,0,0" VerticalAlignment="Top" Width="308" ValueChanged="SpeedSlider_ValueChanged"/>
+        <Slider Name="sizeSlider" Minimum="10" Maximum="20" TickFrequency="2" HorizontalAlignment="Left" Margin="168,101,0,0" VerticalAlignment="Top" Width="308" ValueChanged="SizeSlider_ValueChanged"/>
+        <Canvas Name="drawingCanvas" Background="LightGray" HorizontalAlignment="Left" Height="226" VerticalAlignment="Top" Width="378" Margin="98,142,0,0"/>
+        <Button Name="startStopButton" Content="Start" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="596,51,0,0" Click="StartStopButton_Click"/>
+        <Button Content="Reset" HorizontalAlignment="Left" Margin="596,119,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_4"/>
+        <Button Content="Up" HorizontalAlignment="Left" Margin="596,210,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Button Content="Down" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="596,308,0,0" Click="Button_Click_1"/>
+        <Button Content="Left" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="495,258,0,0" Click="Button_Click_2"/>
+        <Button Content="Right" HorizontalAlignment="Left" Margin="690,258,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_3"/>
+    </Grid>
+</Window>

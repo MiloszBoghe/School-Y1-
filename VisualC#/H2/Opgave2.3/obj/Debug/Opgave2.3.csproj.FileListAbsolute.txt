@@ -1,0 +1,14 @@
+C:\Users\11800460\Desktop\VisualC#\Opgave2.3\bin\Debug\Opgave2.3.exe.config
+C:\Users\11800460\Desktop\VisualC#\Opgave2.3\bin\Debug\Opgave2.3.exe
+C:\Users\11800460\Desktop\VisualC#\Opgave2.3\bin\Debug\Opgave2.3.pdb
+C:\Users\11800460\Desktop\VisualC#\Opgave2.3\obj\Debug\MainWindow.g.cs
+C:\Users\11800460\Desktop\VisualC#\Opgave2.3\obj\Debug\App.g.cs
+C:\Users\11800460\Desktop\VisualC#\Opgave2.3\obj\Debug\Opgave2.3_MarkupCompile.cache
+C:\Users\11800460\Desktop\VisualC#\Opgave2.3\obj\Debug\Opgave2.3_MarkupCompile.lref
+C:\Users\11800460\Desktop\VisualC#\Opgave2.3\obj\Debug\MainWindow.baml
+C:\Users\11800460\Desktop\VisualC#\Opgave2.3\obj\Debug\Opgave2.3.g.resources
+C:\Users\11800460\Desktop\VisualC#\Opgave2.3\obj\Debug\Opgave2._3.Properties.Resources.resources
+C:\Users\11800460\Desktop\VisualC#\Opgave2.3\obj\Debug\Opgave2.3.csproj.GenerateResource.cache
+C:\Users\11800460\Desktop\VisualC#\Opgave2.3\obj\Debug\Opgave2.3.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\VisualC#\Opgave2.3\obj\Debug\Opgave2.3.exe
+C:\Users\11800460\Desktop\VisualC#\Opgave2.3\obj\Debug\Opgave2.3.pdb

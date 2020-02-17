@@ -1,0 +1,15 @@
+D:\.Net-Essentials\H4\Oefening4_9\bin\Debug\Oefening4_9.exe.config
+D:\.Net-Essentials\H4\Oefening4_9\bin\Debug\Oefening4_9.exe
+D:\.Net-Essentials\H4\Oefening4_9\bin\Debug\Oefening4_9.pdb
+D:\.Net-Essentials\H4\Oefening4_9\obj\Debug\Oefening4_9.csprojAssemblyReference.cache
+D:\.Net-Essentials\H4\Oefening4_9\obj\Debug\MainWindow.g.cs
+D:\.Net-Essentials\H4\Oefening4_9\obj\Debug\App.g.cs
+D:\.Net-Essentials\H4\Oefening4_9\obj\Debug\Oefening4_9_MarkupCompile.cache
+D:\.Net-Essentials\H4\Oefening4_9\obj\Debug\Oefening4_9_MarkupCompile.lref
+D:\.Net-Essentials\H4\Oefening4_9\obj\Debug\MainWindow.baml
+D:\.Net-Essentials\H4\Oefening4_9\obj\Debug\Oefening4_9.g.resources
+D:\.Net-Essentials\H4\Oefening4_9\obj\Debug\Oefening4_9.Properties.Resources.resources
+D:\.Net-Essentials\H4\Oefening4_9\obj\Debug\Oefening4_9.csproj.GenerateResource.cache
+D:\.Net-Essentials\H4\Oefening4_9\obj\Debug\Oefening4_9.csproj.CoreCompileInputs.cache
+D:\.Net-Essentials\H4\Oefening4_9\obj\Debug\Oefening4_9.exe
+D:\.Net-Essentials\H4\Oefening4_9\obj\Debug\Oefening4_9.pdb

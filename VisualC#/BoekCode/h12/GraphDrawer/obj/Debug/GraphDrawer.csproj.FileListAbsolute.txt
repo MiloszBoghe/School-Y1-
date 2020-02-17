@@ -1,0 +1,14 @@
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h12\GraphDrawer\bin\Debug\GraphDrawer.exe.config
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h12\GraphDrawer\bin\Debug\GraphDrawer.exe
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h12\GraphDrawer\bin\Debug\GraphDrawer.pdb
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h12\GraphDrawer\obj\Debug\GraphDrawer.csprojAssemblyReference.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h12\GraphDrawer\obj\Debug\MainWindow.baml
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h12\GraphDrawer\obj\Debug\MainWindow.g.cs
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h12\GraphDrawer\obj\Debug\App.g.cs
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h12\GraphDrawer\obj\Debug\GraphDrawer_MarkupCompile.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h12\GraphDrawer\obj\Debug\GraphDrawer.g.resources
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h12\GraphDrawer\obj\Debug\GraphDrawer.Properties.Resources.resources
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h12\GraphDrawer\obj\Debug\GraphDrawer.csproj.GenerateResource.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h12\GraphDrawer\obj\Debug\GraphDrawer.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h12\GraphDrawer\obj\Debug\GraphDrawer.exe
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h12\GraphDrawer\obj\Debug\GraphDrawer.pdb

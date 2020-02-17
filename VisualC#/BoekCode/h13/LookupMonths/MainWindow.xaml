@@ -1,0 +1,36 @@
+﻿<Window x:Class="LookupMonths.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Lookup months" Height="101.343" Width="354.6">
+    <Grid>
+        <ListBox HorizontalAlignment="Left" Height="100"
+                 Margin="10,211,0,0"
+                 VerticalAlignment="Top" Width="100"
+                 Visibility="Hidden"
+                 Name="monthListBox">
+            <ListBoxItem>January</ListBoxItem>
+            <ListBoxItem>February</ListBoxItem>
+            <ListBoxItem>March</ListBoxItem>
+            <ListBoxItem>April</ListBoxItem>
+            <ListBoxItem>May</ListBoxItem>
+            <ListBoxItem>June</ListBoxItem>
+            <ListBoxItem>July</ListBoxItem>
+            <ListBoxItem>August</ListBoxItem>
+            <ListBoxItem>September</ListBoxItem>
+            <ListBoxItem>October</ListBoxItem>
+            <ListBoxItem>November</ListBoxItem>
+            <ListBoxItem>December</ListBoxItem>
+        </ListBox>
+        <TextBlock HorizontalAlignment="Left" Margin="25,25,0,0"
+                   Text="Month" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23"
+                 Margin="82,24,0,0" VerticalAlignment="Top" Width="40"
+                 Name="monthNumberTextBox"/>
+        <Button Content="is" HorizontalAlignment="Left" Margin="143,24,0,0"
+                VerticalAlignment="Top" Width="40" Height="23"
+                Name="lookupButton" Click="lookupButton_Click"/>
+        <TextBox HorizontalAlignment="Left" Height="23"
+        	Margin="203,24,0,0" VerticalAlignment="Top" Width="120"
+        	Name="monthNameTextBox"/>
+    </Grid>
+</Window>

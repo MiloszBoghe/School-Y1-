@@ -1,0 +1,13 @@
+﻿<Window x:Class="Testvraag8_6_musicsheet.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Sheet music" Height="365.149" Width="400">
+    <Grid>
+        <Button Content="Teken" HorizontalAlignment="Left"
+                Margin="30,30,0,0" VerticalAlignment="Top" Width="75"
+                Name="drawButton" Click="drawButton_Click"/>
+        <Canvas HorizontalAlignment="Left" Height="279"
+                Margin="122,30,0,0" VerticalAlignment="Top" Width="250"
+                Name="barsCanvas" Background="LightGray"/>
+    </Grid>
+</Window>

@@ -1,0 +1,78 @@
+html {
+    font-family: Bahnschrift, sans-serif;
+    background-color: cornflowerblue;
+    font-size: 1.1em;
+}
+section {
+    padding: 5px;
+    width: 960px;
+    margin: 0 auto;
+    border: 2px solid darkkhaki;
+}
+
+header {
+    background-color: #1b5fb7;
+    color: cornsilk;
+}
+
+main {
+    width: 850px;
+    float: left;
+}
+
+figure {
+    border: 3px dashed #1b5fb7;
+    width: 70px;
+    float: right;
+    margin: 0;
+}
+
+footer {
+    border-top: 1px solid #1b5fb7;
+    clear: both;
+    text-align:center;
+    background-color: peru;
+    color: white;
+}
+figure img {
+    width: 100%;
+    vertical-align: bottom;
+}
+@media screen and (max-width: 980px ) {
+    figure {
+        width: 15%;
+        height: 15%;
+        float: right;
+    }
+    main {
+        width: 80%;
+        float: left;
+    }
+    section {
+        border: none;
+        padding: 0;
+    }
+    body {
+        margin: 0;
+    }
+}
+@media screen and (max-width: 700px ) {
+    footer {
+        display: none;
+    }
+    figure img {
+        width: 25%;
+        height: 25%;
+    }
+    figure {
+        border: none;
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
+}
+@media screen and (max-width: 400px ) {
+    img {
+        display: none;
+    }
+}

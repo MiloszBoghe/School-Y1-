@@ -1,0 +1,16 @@
+﻿<Window x:Class="Exercise11.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Exercise11"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="randomButton2" Content="Knop 2" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="234,175,0,0" Click="RandomButton2_Click"/>
+        <Button x:Name="randomButton1" Content="Knop 1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="81,175,0,0" Click="RandomButton1_Click"/>
+        <Label x:Name="randomLabel2" Background="LightGray" Content="&#xD;&#xA;&#xD;&#xA;" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="234,94,0,0" Width="75" Height="30"/>
+        <Label x:Name="randomLabel1" Background="LightGray" Content="&#xD;&#xA;" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="81,94,0,0" Height="30" Width="75"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,20 @@
+﻿<Window x:Class="DirectoryForEx18_8.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DirectoryForEx18_8"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Path:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="164,64,0,0"/>
+        <Label Content="Resultaten:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="145,136,0,0"/>
+        <TextBox Name="pathTextBox" TextWrapping="Wrap" Margin="218,67,156,329"/>
+        <TextBox Name="resultTextBox" HorizontalAlignment="Left" Height="222" TextWrapping="Wrap" VerticalAlignment="Top" Width="418" Margin="218,136,0,0"/>
+        <Button Name="browseButton" Content="..." HorizontalAlignment="Left" VerticalAlignment="Top" Width="27" Margin="668,70,0,0" RenderTransformOrigin="-0.178,0.657" Click="BrowseButton_Click"/>
+        <Label Content="Target:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="164,95,0,0" Height="36" Width="54"/>
+        <TextBox Name="targetTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="418" Margin="218,99,0,0"/>
+        <Button Content="Search" Name="searchButton" HorizontalAlignment="Left" VerticalAlignment="Top" Width="61" Margin="668,102,0,0" Click="SearchButton_Click"/>
+
+    </Grid>
+</Window>

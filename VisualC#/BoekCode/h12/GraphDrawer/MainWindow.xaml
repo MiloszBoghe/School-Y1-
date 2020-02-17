@@ -1,0 +1,35 @@
+﻿<Window x:Class="GraphDrawer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Graph Drawer" Height="350" Width="362.612">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="15,15,0,0"
+                   Text="a = " VerticalAlignment="Top" Name="aTextBlock"/>
+        <Slider HorizontalAlignment="Left" Margin="55,15,0,0"
+                VerticalAlignment="Top" Name="aSlider" Width="100"
+                Minimum="-5" Maximum="5" Value="0"
+                TickPlacement="BottomRight" IsSnapToTickEnabled="True"/>
+        <TextBlock HorizontalAlignment="Left" Margin="198,15,0,0"
+                   Text="b = " VerticalAlignment="Top" Name="bTextBlock"/>
+        <Slider HorizontalAlignment="Left" Margin="238,15,0,0"
+                VerticalAlignment="Top" Name="bSlider" Width="100"
+                Minimum="-5" Maximum="5" Value="0"
+                TickPlacement="BottomRight" IsSnapToTickEnabled="True"/>
+        <TextBlock HorizontalAlignment="Left" Margin="15,58,0,0"
+        	Text="c = " VerticalAlignment="Top" Name="cTextBlock"/>
+        <Slider HorizontalAlignment="Left" Margin="55,58,0,0"
+        	VerticalAlignment="Top" x:Name="cSlider" Width="100"
+        	Minimum="-5" Maximum="5" Value="0"
+        	TickPlacement="BottomRight" IsSnapToTickEnabled="True"/>
+        <TextBlock HorizontalAlignment="Left" Margin="198,58,0,0"
+        	Text="d = " VerticalAlignment="Top" Name="dTextBlock"/>
+        <Slider HorizontalAlignment="Left" Margin="238,58,0,0"
+        	VerticalAlignment="Top" x:Name="dSlider" Width="100"
+        	Minimum="-5" Maximum="5" Value="0"
+        	TickPlacement="BottomRight" IsSnapToTickEnabled="True"/>
+        <Canvas HorizontalAlignment="Left" Height="197"
+                Margin="15,102,0,0" VerticalAlignment="Top"
+                Width="323" Background="LightGray"
+                Name="graphCanvas" ClipToBounds="True"/>
+    </Grid>
+</Window>

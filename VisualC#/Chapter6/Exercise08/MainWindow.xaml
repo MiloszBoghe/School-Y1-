@@ -1,0 +1,19 @@
+﻿<Window x:Class="Exercise08.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Exercise08"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525"
+        AutomationProperties.AutomationId="Window_6_8">
+    <Grid>
+        <Label Content="Naam" HorizontalAlignment="Left" Height="29" Margin="50,72,0,0" VerticalAlignment="Top" Width="82"/>
+        <Label Content="Paswoord:" HorizontalAlignment="Left" Height="25" Margin="50,143,0,0" VerticalAlignment="Top" Width="66"/>
+        <TextBox Name="nameTextBox" HorizontalAlignment="Left" Height="20" Margin="167,72,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="263"/>
+        <PasswordBox Name="passwordTextBox" HorizontalAlignment="Left" Height="25" Margin="167,143,0,0"  VerticalAlignment="Top" Width="263" PasswordChar="•"/>
+        <Button Name="cancelButton" Content="Cancel" HorizontalAlignment="Left" Height="24" Margin="104,224,0,0" VerticalAlignment="Top" Width="98"/>
+        <Button Name="okButton" Content="OK" HorizontalAlignment="Left" Height="24" Margin="313,224,0,0" VerticalAlignment="Top" Width="117"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\11800460\Desktop\VisualC#\ReadPosition\bin\Debug\ReadPosition.exe.config
+C:\Users\11800460\Desktop\VisualC#\ReadPosition\bin\Debug\ReadPosition.exe
+C:\Users\11800460\Desktop\VisualC#\ReadPosition\bin\Debug\ReadPosition.pdb
+C:\Users\11800460\Desktop\VisualC#\ReadPosition\obj\Debug\MainWindow.g.cs
+C:\Users\11800460\Desktop\VisualC#\ReadPosition\obj\Debug\App.g.cs
+C:\Users\11800460\Desktop\VisualC#\ReadPosition\obj\Debug\ReadPosition_MarkupCompile.cache
+C:\Users\11800460\Desktop\VisualC#\ReadPosition\obj\Debug\ReadPosition_MarkupCompile.lref
+C:\Users\11800460\Desktop\VisualC#\ReadPosition\obj\Debug\MainWindow.baml
+C:\Users\11800460\Desktop\VisualC#\ReadPosition\obj\Debug\ReadPosition.g.resources
+C:\Users\11800460\Desktop\VisualC#\ReadPosition\obj\Debug\ReadPosition.Properties.Resources.resources
+C:\Users\11800460\Desktop\VisualC#\ReadPosition\obj\Debug\ReadPosition.csproj.GenerateResource.cache
+C:\Users\11800460\Desktop\VisualC#\ReadPosition\obj\Debug\ReadPosition.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\VisualC#\ReadPosition\obj\Debug\ReadPosition.exe
+C:\Users\11800460\Desktop\VisualC#\ReadPosition\obj\Debug\ReadPosition.pdb
+C:\Users\11800460\Desktop\VisualC#\ReadPosition\obj\Debug\ReadPosition.csprojAssemblyReference.cache

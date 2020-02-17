@@ -1,0 +1,18 @@
+﻿<Window x:Class="CatchWhen.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CatchWhen"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="32,25,0,0"
+                VerticalAlignment="Top" Width="75"
+                Name="checkButton" Click="checkButton_Click"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="120,26,0,0"
+                 VerticalAlignment="Top" Width="120"
+                 Name="emailTextBox"/>
+
+    </Grid>
+</Window>

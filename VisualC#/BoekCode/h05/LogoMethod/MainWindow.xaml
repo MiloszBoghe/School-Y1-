@@ -1,0 +1,13 @@
+﻿<Window x:Class="LogoMethod.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Logo Method" Height="300" Width="300">
+    <Grid>
+        <Button Content="Draw" HorizontalAlignment="Left"
+                Margin="10,10,0,0" VerticalAlignment="Top"
+                Width="75" Name="drawButton" Click="drawButton_Click"/>
+        <Canvas HorizontalAlignment="Left" Height="249"
+                Margin="90,10,0,0" VerticalAlignment="Top" Width="192"
+                Name="paperCanvas" Background="LightGray"/>
+    </Grid>
+</Window>

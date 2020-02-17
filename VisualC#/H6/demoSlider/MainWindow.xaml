@@ -1,0 +1,15 @@
+﻿<Window x:Class="demoSlider.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:demoSlider"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="Black">
+        <Slider TickPlacement="Both" HorizontalAlignment="Left" TickFrequency="10" Minimum="10" Maximum="100" Value="20" VerticalAlignment="Top" Height="28" Width="581" Margin="211,368,0,0" Orientation="Horizontal"/>
+        <Slider TickPlacement="Both" TickFrequency="10" Minimum="10" Maximum="100" HorizontalAlignment="Left" Value="20"  VerticalAlignment="Top" Height="363" Width="41" Orientation="Vertical" Margin="172,3,0,0" RenderTransformOrigin="0.442,0.506"></Slider>
+        <Canvas Background="Red" HorizontalAlignment="Left" Height="363" VerticalAlignment="Top" Width="571" Margin="211,0,0,0"/>
+
+    </Grid>
+</Window>

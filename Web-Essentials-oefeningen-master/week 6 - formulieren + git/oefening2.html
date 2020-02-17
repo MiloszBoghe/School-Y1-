@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Pizza</title>
+    <link rel="stylesheet" href="oefening2.css">
+</head>
+<body>
+    <table class="vlag">
+        <tr>
+            <td></td>
+            <td><b>Pizza Albrozar</b></td>
+            <td></td>
+        </tr>
+    </table>
+    <article>
+        <h2>Stel uw eigen pizza samen en we mailen hem naar jou!</h2>
+        <form action="mailto:bestellen@abroznar.be" method="post" enctype="text/plain">
+            <b>Naam:</b><br>
+            <input type="text" name="naam" required>
+            <br>
+            <b>Korst:</b>
+            <br>
+            <input type="radio" name="korst" value="klassiek"><b>Klassiek</b>
+            <input type="radio" name="korst" value="italiaans"><b>Italiaans</b>
+            <input type="radio" name="korst" value="amerikaans"><b>Amerikaans</b>
+            <table class="toppings">
+                <br>
+                <b>Toppings:</b>
+                <tr>
+                    <td><input type="checkbox" name="toppings" value="hesp"><label>Hesp</label></td>
+                    <td><input type="checkbox" name="toppings" value="scampi"><label>Scampi</label></td>
+                    <td><input type="checkbox" name="toppings" value="ajuin"><label>Ajuin</label></td>
+                </tr>
+                <br>
+                <tr>
+                    <td><input type="checkbox" name="toppings" value="champignons"><label>Champignons</label></td>
+                    <td><input type="checkbox" name="toppings" value="tonijn"><label>Tonijn</label></td>
+                    <td><input type="checkbox" name="toppings" value="artisjok"><label>Artisjok</label></td>
+                </tr>
+                <br>
+                <tr>
+                    <td><input type="checkbox" name="toppings" value="tomaat"><label>Tomaat</label></td>
+                    <td><input type="checkbox" name="toppings" value="salami"><label>Salami</label></td>
+                    <td><input type="checkbox" name="toppings" value="mais"><label>Mais</label></td>
+                </tr>
+                <br>
+                <tr>
+                    <td><input type="checkbox" name="toppings" value="kaas"><label>Kaas</label></td>
+                    <td><input type="checkbox" name="toppings" value="kip"><label>Kip</label></td>
+                    <td><input type="checkbox" name="toppings" value="mozzarella"><label>Mozzarella</label></td>
+                </tr>
+                <br>
+                <tr>
+                    <td><input type="checkbox" name="toppings" value="paprika"><label>Paprika</label></td>
+                    <td><input type="checkbox" name="toppings" value="shoarma"><label>Shoarma</label></td>
+                    <td><input type="checkbox" name="toppings" value="ananas" disabled><label>Ananas</label></td> <!--disabled zorgt dat ik deze niet kan selecteren-->
+                </tr>
+            </table>
+            <b>Opmerkingen:</b>
+            <br>
+            <textarea rows="4" cols="50" name="comment"></textarea>
+            <br>
+            <b>Betaalwijze:</b>
+            <br>
+            <input list="betaalwijze" name="betaalwijze" required/>
+            <datalist id="betaalwijze">
+                <option value="Bankaart">
+                <option value="Overschrijving">
+                <option value="Cash">
+            </datalist>
+            <br>
+            <button>Ziet er lekker uit, bestellen maar !</button>
+        </form>
+    </article>
+</body>
+</html>

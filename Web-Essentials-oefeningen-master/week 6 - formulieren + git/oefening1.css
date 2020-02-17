@@ -1,0 +1,14 @@
+form {
+    border: 1px solid black;
+    padding: 15px;
+}
+ tr button {
+    width: 150px;
+    height: 30px;
+}
+input {
+    margin: 10px;
+}
+input.small {
+    width: 53px;
+}

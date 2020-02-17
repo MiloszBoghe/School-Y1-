@@ -1,0 +1,32 @@
+Subnetting --> aantal identieke netwerken
+	   --> evenveel hosts per netwerk
+
+192	   168	     1	        0 /24 (255.255.255.0) --> 1 formule: 2^n >= aantal netwerken --> 2^3 = 8 netwerken
+11000000 10101000 00000001   00000000	
+
+/24 + 3 = 27 --> 
+11111111	11111111	11111111	11100000
+
+8 netwerken:
+192.168.1.|000|00000 => 192.168.1.0 --> ip range van 192.168.1.1 tot en met 192.168.1.30
+192.168.1.|001|00000 => 192.168.1.32 --> ip range van 192.168.1.33 tot en met 192.168.1.62
+192.168.1.|010|00000 => 192.168.1.64 --> ip range van 192.168.1.65 tot en met 192.168.1.94
+192.168.1.|011|00000 => 192.168.1.96 --> ip range van 192.168.1.97 tot en met 192.168.1.126
+192.168.1.|100|00000 => 192.168.1.128 --> ip range van 192.168.1.129 tot en met 192.168.1.158
+192.168.1.|101|00000 => 192.168.1.160 --> ip range van 192.168.1.161 tot en met 192.168.1.190
+192.168.1.|110|00000 => 192.168.1.192 --> ip range van 192.168.1.193 tot en met 192.168.1.222
+192.168.1.|111|00000 => 192.168.1.224 --> ip range van 192.168.1.225 tot en met 192.168.1.254
+	  |SubnetBits|HostBits
+
+
+Dus: Netwerk ID /27 betekent dat de eerste 27 bits tot het netwerk ID behoren, er zijn in totaal 32 bits voor een ipv4
+De laatste (32-27 = 5) bits behoren tot het hostgedeelte. De Ip range gaat van 
+het netwerk ID + 1 tot het hostgedeelte gevuld is -1:
+
+Bv: 192.168.1.|101|00000| = 192.168.1.160 --> netwerkID
+192.168.1.|101|11111|= 192.168.1.191 maar dit is het broadcast IP dus -1 doen --> 192.168.1.190
+Ip range = 192.168.1.161 tot en met 192.168.1.190
+
+VLSM --> elk netwerk heeft verschillend aantal hosts
+
+

@@ -1,0 +1,15 @@
+﻿<Window x:Class="Triangle.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Draw a triangle" Height="368" Width="425">
+    <Grid>
+        <Button Content="Draw" HorizontalAlignment="Left" Margin="12,27,0,0"
+                VerticalAlignment="Top" Width="75"
+                Name="drawButton" Click="drawButton_Click"/>
+        <Canvas HorizontalAlignment="Left" Height="280" Width="280"
+                Margin="105,27,0,0" VerticalAlignment="Top"
+                Name="paperCanvas" Background="LightGray">
+        </Canvas>
+
+    </Grid>
+</Window>

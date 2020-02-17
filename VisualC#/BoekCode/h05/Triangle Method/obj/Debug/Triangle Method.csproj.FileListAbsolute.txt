@@ -1,0 +1,13 @@
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h05\Triangle Method\bin\Debug\Triangle Method.exe.config
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h05\Triangle Method\bin\Debug\Triangle Method.exe
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h05\Triangle Method\bin\Debug\Triangle Method.pdb
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h05\Triangle Method\obj\Debug\MainWindow.baml
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h05\Triangle Method\obj\Debug\MainWindow.g.cs
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h05\Triangle Method\obj\Debug\App.g.cs
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h05\Triangle Method\obj\Debug\Triangle Method_MarkupCompile.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h05\Triangle Method\obj\Debug\Triangle Method.g.resources
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h05\Triangle Method\obj\Debug\Triangle_Method.Properties.Resources.resources
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h05\Triangle Method\obj\Debug\Triangle Method.csproj.GenerateResource.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h05\Triangle Method\obj\Debug\Triangle Method.csproj.CoreCompileInputs.cache
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h05\Triangle Method\obj\Debug\Triangle Method.exe
+C:\Users\11800460\Desktop\VisualC#\BoekCode\h05\Triangle Method\obj\Debug\Triangle Method.pdb

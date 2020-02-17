@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+    <title>My home page</title>
+</head>
+<body>
+<p>A paragraph with a
+    <button>button</button>
+    .
+</p>
+<script>
+    let para = document.querySelector("p");
+    let button = document.querySelector("button");
+    para.addEventListener("mousedown", () => {
+        console.log("Handler for paragraph.");
+    });
+    button.addEventListener("mousedown", event => {
+        console.log("Handler for button.");
+        if (event.button == 2) {
+            event.stopPropagation();
+        }
+    });
+</script>
+</body>
+</html>
+

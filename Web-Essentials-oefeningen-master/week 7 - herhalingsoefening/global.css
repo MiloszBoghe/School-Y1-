@@ -1,0 +1,280 @@
+body {
+    background-color: #ededed;
+    text-align: center;
+}
+#page-wrap {
+    text-align: left;
+    width: 1050px;
+    margin: 0 auto;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(87, 222, 135);
+}
+nav li {
+    float: left;
+}
+nav li a {
+     display: block;
+     color: #093156;
+     text-align: center;
+     padding: 18.5px;
+     text-decoration: none;
+ }
+#banner {
+    margin-top: 5px;
+}
+.container {
+    position: relative;
+    color: white;
+}
+.bottom-right {
+    position: absolute;
+    bottom: 50px;
+    right: 50px;
+    font-weight: 400;
+    font-size: 25px;
+}
+h1 {
+    margin-bottom: 0;
+    font-weight: 400;
+}
+hr {
+    margin-top: 0;
+    height: 1.5px;
+    background-color: black;
+}
+div.content {
+    width: 24%;
+    margin: 0.5% 0.5% 0.5% 0.5%;
+    float: left;
+}
+div.content img {
+    width: 100%;
+    height: auto;
+    margin-top: 4px;
+}
+div.content p.date {
+    display: inline;
+    font-size: small;
+}
+div.content p.name {
+    font-size: small;
+     display: inline;
+     float: right;
+     margin: 0;
+}
+div.content p.info {
+    margin: 0;
+    font-size: small;
+    height: 100px;
+}
+div.content h4 {
+    margin: 6px 0 4px 0;
+    color: rgb(87, 222, 135);
+    font-size: 20px;
+    font-weight: 400;
+}
+div.clearfix {
+    clear: both;
+}
+section#more {
+    clear: both;
+    width: 100%;
+    text-align: center;
+}
+button {
+    width: 150px;
+    color: white;
+    background-color: #343740;
+    text-align: left;
+    margin-top: 15px;
+    padding: 5px;
+}
+section#actiecentrum p {
+    display: block;
+    margin-bottom: 100px;
+}
+div.actie {
+    width: 24%;
+    margin: 0.5% 0.5% 0.5% 0.5%;
+    float: left;
+}
+div.actie img {
+    width: 100%;
+    height: auto;
+    margin-top: 4px;
+}
+div.actie p {
+    background-color: #093156;
+    padding: 5px;
+    color: white;
+    font-size: small;
+    margin: 0;
+}
+section#footer {
+    clear: both;
+    height: 100px;
+    text-align: center;
+    margin: 0;
+    color: white;
+    background-color: black;
+    line-height: 90px;
+    margin-top: 100px;
+    font-size: small;
+}
+/*Contact-Page*/
+section#contact img {
+    height: 18px;
+    width: auto;
+    margin: 20px 10px 0 0;
+}
+section#contact h1 {
+    display: inline;
+}
+section#contact {
+    width: 100%;
+}
+input {
+    height: 25px;
+    width: 30%;
+    margin: 0;
+}
+textarea {
+    margin-top: 10px;
+    width: 100%;
+    height: 150px;
+    padding: 0
+}
+form input, form textarea {
+    border-radius: 6px;
+    background-color: #85d38e;
+    border: none;
+}
+form input::placeholder {
+    color: white;
+    padding-left: 5px;
+}form textarea::placeholder {
+     color: white;
+     padding-left: 5px;
+ }
+ button.contact {
+     border-radius: 6px;
+     background-color: #326544;
+     width: 100%;
+     text-align: center;
+     margin-top: 0;
+     border: none;
+ }
+ td.tgreen {
+     background-color: #85d38e;
+     box-sizing: border-box;
+     border-radius: 6px;
+     text-align: left;
+     width: 33.33%;
+ }
+ /*Producten*/
+ table {
+     width: 100%;
+     text-align: center;
+     color: white;
+ }
+ tr:nth-child(1), tr:nth-child(6) {
+     background-color: #326544;
+ }
+tr:nth-child(2), tr:nth-child(1) {
+    background-color: #326544;
+}
+ tr:nth-child(2) td:nth-child(2) {
+     background-color: #326544;
+ }
+tr:nth-child(2) td:nth-child(3) {
+    background-color: #368050;
+}
+tr:nth-child(3) td:nth-child(1) {
+    background-color: #326544;
+}
+tr:nth-child(3) td:nth-child(2) {
+    background-color: #326544;
+}
+tr:nth-child(3) td:nth-child(3) {
+    background-color: #326544;
+}
+tr:nth-child(3) td:nth-child(4) {
+    background-color: #368050;
+}
+tr:nth-child(3) td:nth-child(5) {
+    background-color: #368050;
+}
+tr:nth-child(4) td:nth-child(1) {
+    background-color: #85d38e;
+}
+tr:nth-child(4) td:nth-child(2) {
+    background-color: #85d38e;
+}
+tr:nth-child(4) td:nth-child(3) {
+    background-color: #85d38e;
+}
+tr:nth-child(4) td:nth-child(4) {
+    background-color: #b5d8b9;
+}
+tr:nth-child(4) td:nth-child(5) {
+    background-color: #b5d8b9;
+}
+tr:nth-child(5) td:nth-child(1) {
+    background-color: #85d38e;
+}
+tr:nth-child(5) td:nth-child(2) {
+    background-color: #85d38e;
+}
+tr:nth-child(5) td:nth-child(3) {
+    background-color: #85d38e;
+}
+tr:nth-child(5) td:nth-child(4) {
+    background-color: #b5d8b9;
+}
+tr:nth-child(5) td:nth-child(5) {
+    background-color: #b5d8b9;
+}
+@media screen and (max-width: 1000px) {
+    #page-wrap {
+        width: 700px;
+    }
+    .container img {
+        width: 700px;
+    }
+    div.content {
+        width: 48%;
+        margin: 1%;
+        float: left;
+    }
+    div.actie {
+        width: 48%;
+        margin: 1%;
+    }
+    section#actiecentrum p {
+        margin-bottom: 0;
+    }
+    div.content p.info {
+        height: auto;
+    }
+}
+@media screen and (max-width: 700px) {
+    #page-wrap {
+        width: 95%;
+    }
+    .container img {
+        width: 100%;
+    }
+    div.content {
+        width: 98%;
+        margin: 1%;
+    }
+    div.actie {
+        width: 98%;
+        margin: 1%;
+    }
+}
